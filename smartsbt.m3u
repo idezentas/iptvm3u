@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SMART SPOR M3U8
-http://uygulama14.club:8081/apk/smartspor/playlist.m3u8
 #EXTINF:-1,TR | GLDN SMART HD Plus
 http://match.goldentv.eu:8899/live/kenan1/kenan2/3973.ts
 #EXTINF:-1,TR | GLDN SMART HD
