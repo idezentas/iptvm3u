@@ -1,12 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,TIVIBU 1 M3U8
-http://uygulama14.club:8081/apk/tivibu1/playlist.m3u8
-#EXTINF:-1,TIVIBU 2 M3U8
-http://uygulama14.club:8081/apk/tivibu2/playlist.m3u8
-#EXTINF:-1,TIVIBU 3 M3U8
-http://uygulama14.club:8081/apk/tivibu3/playlist.m3u8
-#EXTINF:-1,TIVIBU 4 M3U8
-http://uygulama14.club:8081/apk/tivibu4/playlist.m3u8
 #EXTINF:-1,TR | GLDN Tivibu 1 HD
 http://match.goldentv.eu:8899/live/kenan1/kenan2/6.m3u8
 #EXTINF:-1,TR | GLDN Tivibu 2 HD Plus
