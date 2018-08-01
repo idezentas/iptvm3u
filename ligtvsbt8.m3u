@@ -1,14 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1,BEIN 1 M3U8
-http://uygulama14.club:8081/apk/bein1/playlist.m3u8
-#EXTINF:-1,BEIN 1 M3U8 2
-http://uygulama14.club:8081/apk/bein1yedeks/playlist.m3u8
-#EXTINF:-1,BEIN 2 M3U8
-http://uygulama14.club:8081/apk/bein2/playlist.m3u8
-#EXTINF:-1,BEIN 3 M3U8
-http://uygulama14.club:8081/apk/bein3/playlist.m3u8
-#EXTINF:-1,BEIN 4 M3U8
-http://uygulama14.club:8081/apk/bein4/playlist.m3u8
 #EXTINF:-1,TR | GLDN beIN 1 HD [MAG]
 http://match.goldentv.eu:8899/live/kenan1/kenan2/1682.m3u8
 #EXTINF:-1,TR | GLDN beIN 2 HD [MAG]
