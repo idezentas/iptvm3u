@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SSPORT M3U8
-http://uygulama14.club:8081/apk/ssport/playlist.m3u8
 #EXTINF:-1,TR | GLDN SSPORTS Plus
 http://match.goldentv.eu:8899/live/kenan1/kenan2/4360.m3u8
 #EXTINF:-1,TR | GLDN SSPORTS HD
