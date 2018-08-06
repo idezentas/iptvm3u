@@ -1,24 +1,12 @@
 #EXTM3U
-#EXTINF:-1,TR | GLDN SMART HD Plus
-http://match.goldentv.eu:8899/live/kenan1/kenan2/3973.ts
-#EXTINF:-1,TR | GLDN SMART HD
-http://match.goldentv.eu:8899/live/kenan1/kenan2/4296.ts
-#EXTINF:-1,D-Smart SPOR  HD
-http://1.vip-src.com:8080/live/ilker35/35ilker/10.ts
+#EXTINF:-1,SMARTSPOR M3U8
+http://bylig3.com:8081/hls/smartspor/playlist.m3u8?token=
 #EXTINF:-1,TR | SMARTSPOR 1 HD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/12.ts
+#EXTINF:-1,D-Smart SPOR  HD
+http://1.vip-src.com:8080/live/ilker35/35ilker/10.ts
 #EXTINF:-1,D-Smart SPOR 1 HD
 http://sutverduz.com:8080/live/caglayan42/42caglayan/85.ts
-#EXTINF:-1,SMART SPOR
-http://sutverduz.com:8080/live/baris1308/13082017/9235.ts
-#EXTINF:-1,D-Smart SPOR 1 HD
-http://sutverduz.com:8080/live/baris1308/13082017/85.ts
-#EXTINF:-1,(TR:) SMART SPOR SD
-http://nsunucu.com:8000/live/fidan1/fidan2/32410.ts
-#EXTINF:-1,(TR:) SMART SPOR HD
-http://nsunucu.com:8000/live/fidan1/fidan2/13074.ts
-#EXTINF:-1,(TR:) SMART SPOR HD
-http://nsunucu.com:8000/live/habil/habil1/13074.ts
 #EXTINF:-1,TR:) SMART SPOR
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/2971.ts
 #EXTINF:-1,TR:) SMART SPOR HD
@@ -28,11 +16,7 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/4154.ts
 #EXTINF:-1,Smart Spor 1 TR
 http://mypanel.tv:8080/live/beko/12345/8739.ts
 #EXTINF:-1,Smart Spor 1 TR
-http://mypanel.tv:8080/live/rami/12345678/8739.ts
-#EXTINF:-1,Smart Spor 1 TR
 http://mypanel.tv:8080/live/union/union/8739.ts
-#EXTINF:-1,D-Smart SPOR  HD
-http://vismanx1.com:8080/live/kemal01/01kemal/10.ts
 #EXTINF:-1,[SOCCER] TR: SPOR SMART HD
 http://live.now-dns.top:23000/live/Giacometti/Giacometti/32141.ts
 #EXTINF:-1,[ TR ] SPOR SMART HD
@@ -41,8 +25,6 @@ http://live.now-dns.top:23000/live/Giacometti/Giacometti/31593.ts
 http://lucky.lts1.net:23000/live/Giacometti/Giacometti/32141.ts
 #EXTINF:-1,[ TR ] SPOR SMART HD
 http://lucky.lts1.net:23000/live/Giacometti/Giacometti/31593.ts
-#EXTINF:-1,TR: SMARTSPOR 1 HD
-http://dennis-stream.noip.me:8000/live/kralsmart/8375jsvnksjnv73z/427.ts
 #EXTINF:-1,|TR| SMART SPOR HD
 http://king365tv.mine.nu:2103/live/ok1/ok1/3787.ts
 #EXTINF:-1,TR: Smart Spor 1
@@ -53,8 +35,6 @@ http://topiptv.net:5890/live/fathi/fathi1/2217.ts
 http://topiptv.net:5890/live/samir/samir123/2217.ts
 #EXTINF:-1,TR: Smart Spor 1
 http://portal.simiptv.com:8001/live/steven/1234/21371.ts
-#EXTINF:-1,|TR| SMART SPOR-1
-http://ipro.newtvhd.com:8789/live/nicolas/nicolas123/13876.ts
 #EXTINF:-1,TR_SMART-SPOR-1
 http://pro.smartgotv.com:8005/live/mondher/mondher/2626.ts
 #EXTINF:-1,TR_SMART-SPOR-1
@@ -65,16 +45,12 @@ http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/24.ts
 http://ip.fannan.se:8000/live/2255/5522/7815.ts
 #EXTINF:-1,TR:DSMART_1
 http://ip.fannan.se:8000/live/2255/5522/7673.ts
-#EXTINF:-1,TR: Smart Spor 1
-http://goldtv.goldtv.al:8000/live/Armend/armend123/6722.ts
 #EXTINF:-1,TR: Smart  Spor HD
 http://afrique-local.hopto.org:8100/live/farid/12345678/2470.ts
 #EXTINF:-1,TR: Smart  Spor HD
 http://iptv2017.ddns.net:8100/live/farid/12345678/2470.ts
 #EXTINF:-1,TR_SMART-SPOR-1
 http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10185.ts
-#EXTINF:-1,|TR| SMART SPORT 1 HD
-http://leon-iptv.ddns.net:1155/live/1234567/7654321/2368.ts
 #EXTINF:-1,TR Smart Spor 1
 http://drmbx.net:1962/live/caglar2017/caglar2017/9.ts
 #EXTINF:-1,TR Smart Spor 1
@@ -89,14 +65,6 @@ http://193.200.164.174:1958/live/hasan123/hasan321/10183.ts
 http://arabic-tv-box.de:7777/live/mariam/mariam2018/11154.ts
 #EXTINF:-1,|TR| SMART SPORT 1 HD
 http://world-ipsat.com:1155/live/Napoli/Napoli/2368.ts
-#EXTINF:-1,TR: SMART SPOR 1 HD
-http://iptvtool.es:9977/live/Paloma/Paloma/26594.ts
-#EXTINF:-1,TR: SMARTSPOR 1 HD
-http://iptvtool.es:9977/live/Paloma/Paloma/26593.ts
-#EXTINF:-1,TR: SMARTSPOR 1 SD
-http://iptvtool.es:9977/live/Paloma/Paloma/26592.ts
-#EXTINF:-1,|TR| SMART SPORT 1 HD
-http://world-ipsat.com:1155/live/prima/prima/2368.ts
 #EXTINF:-1,|TR| SMART SPORT 1 HD
 http://world-ipsat.com:1155/live/rachid/1234/2368.ts
 #EXTINF:-1,|TR| SMART SPORT 1 HD
@@ -113,19 +81,15 @@ http://iptvtool.es:9977/live/Rivera/Rivera/26592.ts
 http://drmbx.net:1962/live/rustu2017/rustu2017/9.ts
 #EXTINF:-1,TR: SPOR SMART
 http://infinity-iptv.com:6969/live/skaff/skaff/4250.ts
-#EXTINF:-1,TR | SMARTSPOR HD
-http://193.200.164.174:1958/live/tekin48/tekin48/10753.ts
-#EXTINF:-1,TR | SMARTSPOR  UHD
-http://193.200.164.174:1958/live/tekin48/tekin48/10754.ts
-#EXTINF:-1,TR | DSMART  SPOR SMART
-http://193.200.164.174:1958/live/tekin48/tekin48/10183.ts
-#EXTINF:-1,D-Smart SPOR  HD
-http://vismanx1.com:8080/live/umit/kaya/10.ts
 #EXTINF:-1,TR:SPOR SMART HD
 http://portal.germanyservers.de:8000/live/yasinugur/123456/11260.ts
 #EXTINF:-1,TR:SMARTSPOR 1 SD
 http://portal.germanyservers.de:8000/live/yasinugur/123456/7423.ts
 #EXTINF:-1,TR:SMARTSPOR 1 HD
 http://portal.germanyservers.de:8000/live/yasinugur/123456/5967.ts
-#EXTINF:-1,TR:Smart_Spor_HD
-http://sonic-eg.com:8000/live/yousef/1234/2806.ts
+#EXTINF:-1,TR: SMART SPOR 1 HD
+http://5.189.187.55:8000/live/Fadil/skype/2659.ts
+#EXTINF:-1,D-Smart SPOR  HD
+http://vismanx1.com:8080/live/senol/1234/10.ts
+#EXTINF:-1,|TR| SMART SPOR HD1
+http://109.236.82.41:2086/live/winsor_te2Pl0/E9aNTORd/2049.ts
