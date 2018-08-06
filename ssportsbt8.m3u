@@ -1,26 +1,14 @@
 #EXTM3U
-#EXTINF:-1,TR | GLDN SSPORTS Plus
-http://match.goldentv.eu:8899/live/kenan1/kenan2/4360.m3u8
-#EXTINF:-1,TR | GLDN SSPORTS HD
-http://match.goldentv.eu:8899/live/kenan1/kenan2/4286.m3u8
-#EXTINF:-1,S Sport  HD
-http://1.vip-src.com:8080/live/ilker35/35ilker/11.ts
+#EXTINF:-1,SSPORT M3U8
+http://bylig3.com:8081/hls/ssport/playlist.m3u8?token=
 #EXTINF:-1,TR | S SPORT HD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/13.m3u8
+#EXTINF:-1,S Sport  HD
+http://1.vip-src.com:8080/live/ilker35/35ilker/11.ts
 #EXTINF:-1,S SPORT
 http://sutverduz.com:8080/live/caglayan42/42caglayan/9234.m3u8
 #EXTINF:-1,S Sport  HD
 http://sutverduz.com:8080/live/caglayan42/42caglayan/86.m3u8
-#EXTINF:-1,S SPORT
-http://sutverduz.com:8080/live/baris1308/13082017/9234.m3u8
-#EXTINF:-1,S Sport  HD
-http://sutverduz.com:8080/live/baris1308/13082017/86.m3u8
-#EXTINF:-1,(TR:) SARAN SPORT SD
-http://nsunucu.com:8000/live/fidan1/fidan2/19695.ts
-#EXTINF:-1,(TR:) SARAN SPORT TV HD
-http://nsunucu.com:8000/live/fidan1/fidan2/5932.ts
-#EXTINF:-1,(TR:) SARAN SPORT TV HD
-http://nsunucu.com:8000/live/habil/habil1/5932.ts
 #EXTINF:-1,TR:) S SPORT
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4152.m3u8
 #EXTINF:-1,TR:) S SPORT HD
@@ -33,20 +21,12 @@ http://mypanel.tv:8080/live/beko/12345/8738.m3u8
 http://mypanel.tv:8080/live/beko/12345/8729.m3u8
 #EXTINF:-1,Smart Spor 2 FHD TR
 http://mypanel.tv:8080/live/beko/12345/12836.m3u8
-#EXTINF:-1,Smart Spor 2 FHD TR
-http://mypanel.tv:8080/live/rami/12345678/12836.m3u8
-#EXTINF:-1,S Sport HD TR
-http://mypanel.tv:8080/live/rami/12345678/8729.m3u8
-#EXTINF:-1,Smart Spor 2 TR
-http://mypanel.tv:8080/live/rami/12345678/8738.m3u8
 #EXTINF:-1,Smart Spor 2 TR
 http://mypanel.tv:8080/live/union/union/8738.m3u8
 #EXTINF:-1,S Sport HD TR
 http://mypanel.tv:8080/live/union/union/8729.m3u8
 #EXTINF:-1,Smart Spor 2 FHD TR
 http://mypanel.tv:8080/live/union/union/12836.m3u8
-#EXTINF:-1,S Sport  HD
-http://vismanx1.com:8080/live/kemal01/01kemal/11.m3u8
 #EXTINF:-1,[SOCCER] TR: S SPORT HD
 http://live.now-dns.top:23000/live/Giacometti/Giacometti/32146.m3u8
 #EXTINF:-1,[SOCCER] TR: S SPORT HD
@@ -67,8 +47,6 @@ http://topiptv.net:5890/live/samir/samir123/4894.m3u8
 http://topiptv.net:5890/live/samir/samir123/2223.m3u8
 #EXTINF:-1,TR: Saran Sport HD
 http://portal.simiptv.com:8001/live/steven/1234/21376.m3u8
-#EXTINF:-1,|TR| S-SPORT HD
-http://ipro.newtvhd.com:8789/live/nicolas/nicolas123/13909.ts
 #EXTINF:-1,TR_SMART-SPOR-2
 http://pro.smartgotv.com:8005/live/mondher/mondher/2625.m3u8
 #EXTINF:-1,TR_SMART-SPOR-2
@@ -79,8 +57,6 @@ http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/23.ts
 http://cosmos-tv.live:25461/live/0RDb72GRjr/0dFOqZyWgc/69.ts
 #EXTINF:-1,TR:DSMART_2
 http://ip.fannan.se:8000/live/2255/5522/7672.m3u8
-#EXTINF:-1,TR: Smart Spor 2
-http://goldtv.goldtv.al:8000/live/Armend/armend123/6723.m3u8
 #EXTINF:-1,TR: Smart  Spor 2
 http://afrique-local.hopto.org:8100/live/farid/12345678/2471.m3u8
 #EXTINF:-1,TR: Smart  Spor 2
@@ -91,14 +67,8 @@ http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10184.m3u8
 http://drmbx.net:1962/live/caglar2017/caglar2017/1074.m3u8
 #EXTINF:-1,TR S Sport
 http://drmbx.net:1962/live/cahit2017/cahit2017/1074.m3u8
-#EXTINF:-1,|TR| S SPORT
-http://world-ipsat.com:1155/live/Fico/Fico/5508.m3u8
 #EXTINF:-1,TR | SARANSPORT HD
 http://193.200.164.174:1958/live/hasan123/hasan321/10751.m3u8
-#EXTINF:-1,TR: S SPOR HD
-http://iptvtool.es:9977/live/Paloma/Paloma/26646.m3u8
-#EXTINF:-1,TR: S SPORT HD
-http://iptvtool.es:9977/live/Paloma/Paloma/26645.m3u8
 #EXTINF:-1,|TR| S SPORT
 http://world-ipsat.com:1155/live/Reda2/Reda2/5508.m3u8
 #EXTINF:-1,TR S Sport
@@ -107,13 +77,15 @@ http://drmbx.net:1962/live/rustu2017/rustu2017/1074.m3u8
 http://infinity-iptv.com:6969/live/skaff/skaff/11793.m3u8
 #EXTINF:-1,TR: S SPORT HD(1)
 http://infinity-iptv.com:6969/live/skaff/skaff/4251.m3u8
-#EXTINF:-1,TR | SARANSPORT HD
-http://193.200.164.174:1958/live/tekin48/tekin48/10751.m3u8
-#EXTINF:-1,S Sport  HD
-http://vismanx1.com:8080/live/umit/kaya/11.m3u8
 #EXTINF:-1,TR:S SPORT HD
 http://portal.germanyservers.de:8000/live/yasinugur/123456/5982.m3u8
 #EXTINF:-1,TR:S Sport HD +
 http://portal.germanyservers.de:8000/live/yasinugur/123456/9529.m3u8
-#EXTINF:-1,TR:Smart_Spor_2_HD
-http://sonic-eg.com:8000/live/yousef/1234/2805.m3u8
+#EXTINF:-1,TR: SMART SPOR 2 HD
+http://5.189.187.55:8000/live/Fadil/skype/2658.m3u8
+#EXTINF:-1,TR: S SPORT HD
+http://tvbezgranica.org:8000/live/MuamerM/IEaWjMorKd/1440.m3u8
+#EXTINF:-1,S Sport  HD
+http://vismanx1.com:8080/live/senol/1234/11.m3u8
+#EXTINF:-1,|TR| SMART SPOR HD2
+http://109.236.82.41:2086/live/winsor_te2Pl0/E9aNTORd/2048.m3u8
