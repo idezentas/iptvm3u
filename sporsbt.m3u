@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1,BEIN SPORTS 1
+http://ollocdn.online/ollomobananinamioc/601/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 1_2
+http://yeniharman.club:2052/mjolk/bein1/chunks.m3u8
+#EXTINF:-1,BEIN SPORTS 2
+http://ollocdn.online/ollomobananinamioc/602/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 2_2
+http://yeniharman.club:2052/mjolk/bein2/chunks.m3u8
+#EXTINF:-1,BEIN SPORTS 3
+http://ollocdn.online/ollomobananinamioc/603/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 3_2
+http://yeniharman.club:2052/mjolk/bein3/chunks.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://ollocdn.online/ollomobananinamioc/604/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 4_2
+http://yeniharman.club:2052/mjolk/bein4/chunks.m3u8
+#EXTINF:-1,BEIN SPORT MAX 1
+http://ollocdn.online/ollomobananinamioc/805/playlist.m3u8
+#EXTINF:-1,BEIN SPORT MAX 2
+http://ollocdn.online/ollomobananinamioc/806/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS HABER HD
+http://ollocdn.online/ollomobananinamioc/1/playlist.m3u8
+#EXTINF:-1,SPOR SMART HD
+http://ollocdn.online/ollomobananinamioc/102/playlist.m3u8
+#EXTINF:-1,SMART SPOR HD
+http://yeniharman.club:2052/mjolk/smartspor/chunks.m3u8
+#EXTINF:-1,TIVIBU SPOR
+http://ollocdn.online/ollomobananinamioc/605/playlist.m3u8
+#EXTINF:-1,TIVIBU SPOR_2
+http://yeniharman.club:2052/mjolk/tivibu1/chunks.m3u8
+#EXTINF:-1,TIVIBU SPOR 2
+http://ollocdn.online/ollomobananinamioc/606/playlist.m3u8
+#EXTINF:-1,TIVIBU SPOR 2_2
+http://yeniharman.club:2052/mjolk/tivibu2/chunks.m3u8
+#EXTINF:-1,TIVIBU SPOR 3_2
+http://yeniharman.club:2052/mjolk/tivibu3/chunks.m3u8
+#EXTINF:-1,GS TV
+http://ollocdn.online/ollomobananinamioc/63240/playlist.m3u8
 #EXTINF:-1,TR | beIN SPORTS HD 1 SD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/11.ts
 #EXTINF:-1,TR | beIN SPORTS  1
@@ -41,74 +79,8 @@ http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/15.ts
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/14.ts
 #EXTINF:-1,TR | SMARTSPOR 1 HD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/12.ts
-#EXTINF:-1,TR | EURO SPORT2 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/22.ts
-#EXTINF:-1,TR | EUROSPORT HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/21.ts
-#EXTINF:-1,TR | S SPORT HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/13.ts
-#EXTINF:-1,TR | TRT SPOR HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/19.ts
-#EXTINF:-1,TR | ASPOR  HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/20.ts
-#EXTINF:-1,beIN SPORTS HD 1
-http://iptv-red.com:8080/live/ilker35/35ilker/2.ts
-#EXTINF:-1,beIN SPORTS 1 HD 265.HVEC
-http://iptv-red.com:8080/live/ilker35/35ilker/130.ts
-#EXTINF:-1,beIN SPORTS SD 1
-http://iptv-red.com:8080/live/ilker35/35ilker/7100.ts
-#EXTINF:-1,beIN SPORTS HD 1 Mobile
-http://iptv-red.com:8080/live/ilker35/35ilker/7042.ts
-#EXTINF:-1,beIN SPORTS HD 1 1080i
-http://iptv-red.com:8080/live/ilker35/35ilker/7101.ts
-#EXTINF:-1,beIN SPORTS 1 4K UHD
-http://iptv-red.com:8080/live/ilker35/35ilker/7605.ts
-#EXTINF:-1,beIN SPORTS HD 1 720p
-http://iptv-red.com:8080/live/ilker35/35ilker/7102.ts
-#EXTINF:-1,beIN SPORTS SD 2
-http://iptv-red.com:8080/live/ilker35/35ilker/8302.ts
-#EXTINF:-1,beIN SPORTS HD 2
-http://iptv-red.com:8080/live/ilker35/35ilker/3.ts
-#EXTINF:-1,beIN SPORTS SD 3
-http://iptv-red.com:8080/live/ilker35/35ilker/8301.ts
-#EXTINF:-1,beIN SPORTS HD 3
-http://iptv-red.com:8080/live/ilker35/35ilker/4.ts
-#EXTINF:-1,beIN SPORTS HD 4
-http://iptv-red.com:8080/live/ilker35/35ilker/1492.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD
-http://iptv-red.com:8080/live/ilker35/35ilker/6977.ts
-#EXTINF:-1,beIN SPORTS MAX 2 HD
-http://iptv-red.com:8080/live/ilker35/35ilker/6978.ts
-#EXTINF:-1,beIN SPORTS HABER HD
-http://iptv-red.com:8080/live/ilker35/35ilker/7105.ts
-#EXTINF:-1,tivibu SPOR 1 HD
-http://iptv-red.com:8080/live/ilker35/35ilker/179.ts
-#EXTINF:-1,tivibu SPOR 2 HD
-http://iptv-red.com:8080/live/ilker35/35ilker/180.ts
-#EXTINF:-1,tivibu SPOR 3 HD
-http://iptv-red.com:8080/live/ilker35/35ilker/181.ts
-#EXTINF:-1,tivibu SPOR 4 HD
-http://iptv-red.com:8080/live/ilker35/35ilker/182.ts
-#EXTINF:-1,D-Smart SPOR  HD
-http://iptv-red.com:8080/live/ilker35/35ilker/10.ts
-#EXTINF:-1,D-Smart NBA TV HD
-http://iptv-red.com:8080/live/ilker35/35ilker/12.ts
-#EXTINF:-1,Filbox EUROSPORT 1 HD
-http://iptv-red.com:8080/live/ilker35/35ilker/67.ts
-#EXTINF:-1,D-Smart EUROSPORT 2 HD
-http://iptv-red.com:8080/live/ilker35/35ilker/29.ts
-#EXTINF:-1,S Sport  HD
-http://iptv-red.com:8080/live/ilker35/35ilker/11.ts
-#EXTINF:-1,Sports TV
-http://iptv-red.com:8080/live/ilker35/35ilker/86.ts
-#EXTINF:-1,TRT Spor HD
-http://iptv-red.com:8080/live/ilker35/35ilker/58.ts
-#EXTINF:-1,TRT 3 - TRT Spor
-http://iptv-red.com:8080/live/ilker35/35ilker/1353.ts
-#EXTINF:-1,A Spor HD
-http://iptv-red.com:8080/live/ilker35/35ilker/75.ts
-#EXTINF:-1,GS TV
-http://iptv-red.com:8080/live/ilker35/35ilker/117.ts
+#EXTINF:-1,TR | GS TV
+http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/24.ts
 #EXTINF:-1,TR: ***beIN SPORTS*** 1 HD
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/21760.ts
 #EXTINF:-1,TR: ***beIN SPORTS***1 FHD
@@ -117,6 +89,10 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/135.ts
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/3555.ts
 #EXTINF:-1,TR: ***beIN SPORTS***1 SD
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4730.ts
+#EXTINF:-1,(TR) beIN SPORTS 1 HD EX
+http://uhd-iptv.life:8080/live/mevlut/mevlut123/3475.ts
+#EXTINF:-1,(TR) beIN SPORTS 1 EX
+http://uhd-iptv.life:8080/live/mevlut/mevlut123/195.ts
 #EXTINF:-1,TR: beIN SPORTS 2 FHD
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/2268.ts
 #EXTINF:-1,TR: beIN SPORTS 2 HD
@@ -143,12 +119,6 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/4556.ts
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4555.ts
 #EXTINF:-1,TR: BEIN SPORTS HABER HD
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/21495.ts
-#EXTINF:-1,TR:) S SPORT
-http://uhd-iptv.life:8080/live/mevlut/mevlut123/4152.ts
-#EXTINF:-1,TR:) S SPORT HD
-http://uhd-iptv.life:8080/live/mevlut/mevlut123/136.ts
-#EXTINF:-1,TR:) S SPORT HD YEDEK
-http://uhd-iptv.life:8080/live/mevlut/mevlut123/4153.ts
 #EXTINF:-1,TR:) SMART SPOR
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/2971.ts
 #EXTINF:-1,TR:) SMART SPOR HD
@@ -177,32 +147,374 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/4124.ts
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4125.ts
 #EXTINF:-1,TR:) TIVIBU SPOR 5 FHD ( 82.KANAL )
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/20668.ts
-#EXTINF:-1,|TR| BEIN SPORTS 1 HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/473.ts
-#EXTINF:-1,|TR| BEIN SPORTS 2 HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/474.ts
-#EXTINF:-1,|TR| BEIN SPORTS 3 HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/2773.ts
-#EXTINF:-1,|TR| BEIN SPORTS 4 HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/1803.ts
-#EXTINF:-1,|TR| TIVIBU SPOR 1 HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/1804.ts
-#EXTINF:-1,|TR| TIVIBU SPOR 2 HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/1805.ts
-#EXTINF:-1,|TR| TIVIBU SPORT 3 HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/1823.ts
-#EXTINF:-1,|TR| TIVIBU SPOR 4 HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/3788.ts
-#EXTINF:-1,|TR| S SPORT TV
-http://king365tv.mine.nu:2103/live/ok1/ok1/4386.ts
-#EXTINF:-1,|TR| SMART SPOR HD
-http://king365tv.mine.nu:2103/live/ok1/ok1/3787.ts
-#EXTINF:-1,SPORT TV TR
-http://topiptv.net:5890/live/samir/samir123/1132.ts
-#EXTINF:-1,TRT Sport TR
-http://topiptv.net:5890/live/samir/samir123/1099.ts
-#EXTINF:-1,S SPORT HD TR
-http://topiptv.net:5890/live/samir/samir123/4894.ts
+#EXTINF:-1,TR | BEIN SPORTS HABER
+http://tre.tithis.com:2015/live/280690/280690/36893.ts
+#EXTINF:-1,TR| BEIN SPORT 4 K HD 1080
+http://tre.tithis.com:2015/live/280690/280690/30027.ts
+#EXTINF:-1,TR| BEIN SPORT 4K UHD
+http://tre.tithis.com:2015/live/280690/280690/30028.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 4K
+http://tre.tithis.com:2015/live/280690/280690/36488.ts
+#EXTINF:-1,TR | BEIN SPORTS 1 FHD
+http://tre.tithis.com:2015/live/280690/280690/26551.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 1 HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/36492.ts
+#EXTINF:-1,TR| BEIN SPORT 1 1280x720p HD
+http://tre.tithis.com:2015/live/280690/280690/30022.ts
+#EXTINF:-1,TR| BEIN SPORT 1 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/30026.ts
+#EXTINF:-1,TR| BEiN SPORT 1 HD 720
+http://tre.tithis.com:2015/live/280690/280690/30024.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS SD 1 (1120x640)
+http://tre.tithis.com:2015/live/280690/280690/36483.ts
+#EXTINF:-1,TR| BEIN SPORT 1 1280x720p (Yedek)
+http://tre.tithis.com:2015/live/280690/280690/30023.ts
+#EXTINF:-1,TR | BEIN SPORTS 1 HD
+http://tre.tithis.com:2015/live/280690/280690/24229.ts
+#EXTINF:-1,TR | BEIN SPORTS 1 SD
+http://tre.tithis.com:2015/live/280690/280690/24223.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 2 HD (1920X1080)
+http://tre.tithis.com:2015/live/280690/280690/36491.ts
+#EXTINF:-1,TR| BEIN SPORT 2 1280x720p (Yedek)
+http://tre.tithis.com:2015/live/280690/280690/30017.ts
+#EXTINF:-1,TR| BEIN SPORT 2 1280x720p SD
+http://tre.tithis.com:2015/live/280690/280690/30016.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS SD 2 (1120x640)
+http://tre.tithis.com:2015/live/280690/280690/36482.ts
+#EXTINF:-1,TR| BEIN SPORT 2 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/30020.ts
+#EXTINF:-1,TR| BEIN SPORT 2 HD 720
+http://tre.tithis.com:2015/live/280690/280690/30018.ts
+#EXTINF:-1,TR | BEIN SPORTS 2 FHD
+http://tre.tithis.com:2015/live/280690/280690/26550.ts
+#EXTINF:-1,TR | BEIN SPORTS 2 HD
+http://tre.tithis.com:2015/live/280690/280690/24228.ts
+#EXTINF:-1,TR | BEIN SPORTS 2 SD
+http://tre.tithis.com:2015/live/280690/280690/24222.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 3 HD (1920X1080)
+http://tre.tithis.com:2015/live/280690/280690/36490.ts
+#EXTINF:-1,TR| BEIN SPORT 3 1280x720p (Yedek)
+http://tre.tithis.com:2015/live/280690/280690/30010.ts
+#EXTINF:-1,TR| BEIN SPORT 3 1280x720p HD
+http://tre.tithis.com:2015/live/280690/280690/30012.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS SD 3 (1120x640)
+http://tre.tithis.com:2015/live/280690/280690/36481.ts
+#EXTINF:-1,TR| BEIN SPORT 3 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/30014.ts
+#EXTINF:-1,TR| BEIN SPORT 3 HD 720
+http://tre.tithis.com:2015/live/280690/280690/30011.ts
+#EXTINF:-1,TR | BEIN SPORTS 3 HD
+http://tre.tithis.com:2015/live/280690/280690/24227.ts
+#EXTINF:-1,TR | BEIN SPORTS 3 SD
+http://tre.tithis.com:2015/live/280690/280690/24221.ts
+#EXTINF:-1,TR| BEIN SPORT 4 1080p HD
+http://tre.tithis.com:2015/live/280690/280690/30006.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS 4 HD (1920X1080)
+http://tre.tithis.com:2015/live/280690/280690/36489.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS SD 4 (1120x640)
+http://tre.tithis.com:2015/live/280690/280690/36480.ts
+#EXTINF:-1,TR| BEIN SPORT 4 1280x720p (Yedek)
+http://tre.tithis.com:2015/live/280690/280690/30005.ts
+#EXTINF:-1,TR| BEIN SPORT 4 1280x720p SD
+http://tre.tithis.com:2015/live/280690/280690/30004.ts
+#EXTINF:-1,TR| BEIN SPORT 4 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/30008.ts
+#EXTINF:-1,TR| BEIN SPORT 4 HD 720
+http://tre.tithis.com:2015/live/280690/280690/30007.ts
+#EXTINF:-1,TR | BEIN SPORTS 4 HD
+http://tre.tithis.com:2015/live/280690/280690/24226.ts
+#EXTINF:-1,TR | BEIN SPORTS 4 SD
+http://tre.tithis.com:2015/live/280690/280690/24220.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS MAX 1 HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/36487.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS MAX 1 SD (1120x640)
+http://tre.tithis.com:2015/live/280690/280690/36486.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS MAX 2 HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/36485.ts
+#EXTINF:-1,TR_Y |BEIN SPORTS MAX 2 SD (1120x640)
+http://tre.tithis.com:2015/live/280690/280690/36484.ts
+#EXTINF:-1,TR| BEIN SPORT MAX 2 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/30000.ts
+#EXTINF:-1,TR| BEIN SPORT Max1 1280x720p HD
+http://tre.tithis.com:2015/live/280690/280690/29999.ts
+#EXTINF:-1,TR| BEIN SPORT Max2 1280x720p HD
+http://tre.tithis.com:2015/live/280690/280690/29998.ts
+#EXTINF:-1,TR| BEINSPORTS MAX 1 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/30001.ts
+#EXTINF:-1,TR | BEIN SPORTS MAX 1 HD
+http://tre.tithis.com:2015/live/280690/280690/24225.ts
+#EXTINF:-1,TR | BEIN SPORTS MAX 2 HD
+http://tre.tithis.com:2015/live/280690/280690/24224.ts
+#EXTINF:-1,TR | BEIN SPORTS TR 1
+http://tre.tithis.com:2015/live/280690/280690/7574.ts
+#EXTINF:-1,TR | BEIN SPORTS TR 2.
+http://tre.tithis.com:2015/live/280690/280690/7575.ts
+#EXTINF:-1,TR | BEIN SPORTS TR 3
+http://tre.tithis.com:2015/live/280690/280690/7576.ts
+#EXTINF:-1,TR | BEIN SPORTS TR 4.
+http://tre.tithis.com:2015/live/280690/280690/1143.ts
+#EXTINF:-1,TR| GS TV HD
+http://tre.tithis.com:2015/live/280690/280690/29979.ts
+#EXTINF:-1,TR| SMART SPOR HD 1080
+http://tre.tithis.com:2015/live/280690/280690/29977.ts
+#EXTINF:-1,TR_Y |SMARTSPOR HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/36478.ts
+#EXTINF:-1,TR_Y |TiViBUSPOR 1 HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/36477.ts
+#EXTINF:-1,TR_Y |TiViBUSPOR 2 HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/36476.ts
+#EXTINF:-1,TR_Y |TiViBUSPOR 3 HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/36475.ts
+#EXTINF:-1,TR_Y |TiViBUSPOR 4 HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/36474.ts
+#EXTINF:-1,TR| Tivibu Spor 1 HD
+http://tre.tithis.com:2015/live/280690/280690/29993.ts
+#EXTINF:-1,TR| Tivibu Spor 1 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/29992.ts
+#EXTINF:-1,TR| Tivibu Spor 2 HD
+http://tre.tithis.com:2015/live/280690/280690/29990.ts
+#EXTINF:-1,TR| Tivibu Spor 2 HD (1920x1080)
+http://tre.tithis.com:2015/live/280690/280690/29988.ts
+#EXTINF:-1,TR| Tivibu Spor 2 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/29989.ts
+#EXTINF:-1,TR| Tivibu Spor 3 HD
+http://tre.tithis.com:2015/live/280690/280690/29987.ts
+#EXTINF:-1,TR| Tivibu Spor 3 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/29986.ts
+#EXTINF:-1,TR| Tivibu Spor 4 HD
+http://tre.tithis.com:2015/live/280690/280690/29984.ts
+#EXTINF:-1,TR| Tivibu Spor 4 HD 1080
+http://tre.tithis.com:2015/live/280690/280690/29983.ts
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://tre.tithis.com:2015/live/280690/280690/7.ts
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD
+http://tre.tithis.com:2015/live/280690/280690/951.ts
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://tre.tithis.com:2015/live/280690/280690/8026.ts
+#EXTINF:-1,TR | TIVIBU SPOR 4 HD
+http://tre.tithis.com:2015/live/280690/280690/8027.ts
+#EXTINF:-1,(TR) BEIN SPORT HABER
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/129036.ts
+#EXTINF:-1,(TR) BEiN SPORT-1 ULTRA HD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/138606.ts
+#EXTINF:-1,(TR) BEiN SPORT-1 SD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/117625.ts
+#EXTINF:-1,(TR) BEiN SPORT-1 480P (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/138607.ts
+#EXTINF:-1,(TR) BEiN SPORT-1 HD+ (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/112339.ts
+#EXTINF:-1,(TR) BEiN SPORT-2 HD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/109187.ts
+#EXTINF:-1,(TR) BEiN SPORT-2 SD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/117626.ts
+#EXTINF:-1,(TR) BEiN SPORT-2 480P (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/162815.ts
+#EXTINF:-1,(TR) BEiN SPORT-3 HD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/109186.ts
+#EXTINF:-1,(TR) BEiN SPORT-3 SD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/117627.ts
+#EXTINF:-1,(TR) BEiN SPORT-3 480P (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/162816.ts
+#EXTINF:-1,(TR) BEiN SPORT-4 HD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/109185.ts
+#EXTINF:-1,(TR) BEiN SPORT-4 SD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/117628.ts
+#EXTINF:-1,(TR) BEiN SPORT-4 480P (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/162817.ts
+#EXTINF:-1,(TR) BEiN SPORT MAX 1 (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/114448.ts
+#EXTINF:-1,(TR) BEiN SPORT MAX-1 480P (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/162818.ts
+#EXTINF:-1,(TR) BEiN SPORT MAX 2 (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/114449.ts
+#EXTINF:-1,(TR) BEiN SPORT MAX-2 480P (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/162819.ts
+#EXTINF:-1,(TR) BEINSPOR 1 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/123295.ts
+#EXTINF:-1,(TR) BEINSPOR 2 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/123296.ts
+#EXTINF:-1,(TR) BEINSPOR 3 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/123297.ts
+#EXTINF:-1,(TR) BEINSPOR 4 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/123298.ts
+#EXTINF:-1,(TR) BEIN SPOR 1 MATCH TIME
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6046.ts
+#EXTINF:-1,(TR) BEIN SPOR 1 SD++
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/8070.ts
+#EXTINF:-1,(TR) BEIN SPOR 1 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7594.ts
+#EXTINF:-1,(TR) BEIN SPOR 2 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7595.ts
+#EXTINF:-1,(TR) BEIN SPOR 3 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7596.ts
+#EXTINF:-1,(TR) BEIN SPOR 4 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7597.ts
+#EXTINF:-1,(TR) BEIN SPOR 1 HD+ MATCH TIME
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/8067.ts
+#EXTINF:-1,(TR) BEIN SPOR 2 SD MATCH TIME
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7601.ts
+#EXTINF:-1,(TR) BEIN SPOR 3 SD MATCH TIME
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7602.ts
+#EXTINF:-1,(TR) Tivibu Spor 1 HD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145223.ts
+#EXTINF:-1,(TR) Tivibu Spor 1 SD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145224.ts
+#EXTINF:-1,(TR) Tivibu Spor 2 HD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145225.ts
+#EXTINF:-1,(TR) Tivibu Spor 2 SD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145226.ts
+#EXTINF:-1,(TR) Tivibu Spor 3 HD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145227.ts
+#EXTINF:-1,(TR) Tivibu Spor 3 SD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145228.ts
+#EXTINF:-1,(TR) Tivibu Spor 4 HD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145229.ts
+#EXTINF:-1,(TR) Tivibu Spor 4 SD (OZEL)
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145230.ts
+#EXTINF:-1,(TR) BEINSPOR 1 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/123295.ts
+#EXTINF:-1,(TR) BEINSPOR 2 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/123296.ts
+#EXTINF:-1,(TR) BEINSPOR 3 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/123297.ts
+#EXTINF:-1,(TR) BEINSPOR 4 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/123298.ts
+#EXTINF:-1,(TR) BEIN SPOR 1 MATCH TIME
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6046.ts
+#EXTINF:-1,(TR) BEIN SPOR 1 SD++
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/8070.ts
+#EXTINF:-1,(TR) BEIN SPOR 1 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7594.ts
+#EXTINF:-1,(TR) BEIN SPOR 2 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7595.ts
+#EXTINF:-1,(TR) BEIN SPOR 3 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7596.ts
+#EXTINF:-1,(TR) BEIN SPOR 4 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7597.ts
+#EXTINF:-1,(TR) BEIN SPOR 1 HD+ MATCH TIME
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/8067.ts
+#EXTINF:-1,(TR) BEIN SPOR 2 SD MATCH TIME
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7601.ts
+#EXTINF:-1,(TR) BEIN SPOR 3 SD MATCH TIME
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7602.ts
+#EXTINF:-1,(TR) BEIN SPOR 1
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/630.ts
+#EXTINF:-1,(TR) BEIN SPOR 2
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/631.ts
+#EXTINF:-1,(TR) BEIN SPOR 3
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/632.ts
+#EXTINF:-1,(TR) BEIN SPOR 4
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2120.ts
+#EXTINF:-1,(TR) BEIN SPOR TV  1 SD VIP
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/957.ts
+#EXTINF:-1,(TR) BEIN SPOR TV  2 SD VIP
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/958.ts
+#EXTINF:-1,(TR) BEIN SPOR TV 3 SD VIP
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/959.ts
+#EXTINF:-1,(TR) BEIN SPOR TV 1
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2795.ts
+#EXTINF:-1,(TR) BEIN SPOR TV  4
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2798.ts
+#EXTINF:-1,(TR) BEIN SPOR TV  YEDEK 1
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2799.ts
+#EXTINF:-1,(TR) BEIN SPOR TV  YEDEK 2
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2800.ts
+#EXTINF:-1,(TR) BEIN SPOR TV  YEDEK 3
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2801.ts
+#EXTINF:-1,(TR) BEIN SPOR TV  YEDEK 4
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2802.ts
+#EXTINF:-1,(TR) SMART SPOR 1 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/92363.ts
+#EXTINF:-1,(TR) SMART SPOR 2 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/92364.ts
+#EXTINF:-1,(TR) Smart Spor HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6050.ts
+#EXTINF:-1,(TR) Smart Spor HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6051.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 1 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2202.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 1
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/765.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 2
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/1449.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 2 HD YEDEK
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7581.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 2 SD+ SL
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6042.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 4 SD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6043.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 1 HD+  SL
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7867.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 2 HD+  SL
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7868.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 3 HD+  SL
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7865.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 4 SD+  SL
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7864.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 1 SD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/629.ts
+#EXTINF:-1,(TR) Tivibu Spor 2 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6049.ts
+#EXTINF:-1,(TR) TIVIBU SPOR 2 SD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/1450.ts
+#EXTINF:-1,(TR) Tivibu Spor 3 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7181.ts
+#EXTINF:-1,(TR) Tivibu Spor 4 HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7182.ts
+#EXTINF:-1,(TR) TIVIBU SPOR HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/1468.ts
+#EXTINF:-1,(TR) Tivibu Spor HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6048.ts
+#EXTINF:-1,(TR) GS TV
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2626.ts
+#EXTINF:-1,TR:BEINSPORTS HABER HD
+http://vip.goldtv.org:8000/live/piraziz/piraziz/10083.ts
+#EXTINF:-1,TR:BEINSPORTS 1 SD 546p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/18422.ts
+#EXTINF:-1,TR:BEINSPORTS 1 HD 720p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/636.ts
+#EXTINF:-1,TR:BEINSPORTS 1 HD 1080p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/9373.ts
+#EXTINF:-1,TR:BEINSPORTS 4 K UHD
+http://newliving.dbox.life:8080/live/Sports8main/p-6CMHuO-b7kBJ/10.ts
+#EXTINF:-1,TR:BEINSPORTS 2 HD 720p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/10503.ts
+#EXTINF:-1,TR:BEINSPORTS 2 HD 1080p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/9374.ts
+#EXTINF:-1,TR:BEINSPORTS 3 HD 720p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/10502.ts
+#EXTINF:-1,TR:BEINSPORTS 3 HD 1080p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/9375.ts
+#EXTINF:-1,TR:BEINSPORTS 4 HD 720p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/10501.ts
+#EXTINF:-1,TR:BEINSPORTS 4 HD 1080p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/9376.ts
+#EXTINF:-1,TR:BEINSPORTS MAX 1 HD 720p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/10500.ts
+#EXTINF:-1,TR:BEINSPORTS MAX 1 HD 1080p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/9377.ts
+#EXTINF:-1,TR:BEINSPORTS MAX 2 HD 720p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/10499.ts
+#EXTINF:-1,TR:BEINSPORTS MAX 2 HD 1080p
+http://vip.goldtv.org:8000/live/piraziz/piraziz/9378.ts
+#EXTINF:-1,TR:GS TV
+http://vip.goldtv.org:8000/live/piraziz/piraziz/1074.ts
+#EXTINF:-1,TR:TIVIBU SPOR 1 HD
+http://vip.goldtv.org:8000/live/piraziz/piraziz/18454.ts
+#EXTINF:-1,TR:TIVIBU SPOR 2 HD
+http://vip.goldtv.org:8000/live/piraziz/piraziz/3698.ts
+#EXTINF:-1,TR:TIVIBU SPOR 3 HD
+http://vip.goldtv.org:8000/live/piraziz/piraziz/3694.ts
+#EXTINF:-1,TR:TIVIBU SPOR 4 HD
+http://vip.goldtv.org:8000/live/piraziz/piraziz/3695.ts
+#EXTINF:-1,TR:Spor Smart HD
+http://vip.goldtv.org:8000/live/piraziz/piraziz/2833.ts
+#EXTINF:-1,AZ:IDMAN
+http://vip.goldtv.org:8000/live/piraziz/piraziz/10781.ts
+#EXTINF:-1,AZ: CBC SPORT
+http://vip.goldtv.org:8000/live/piraziz/piraziz/18093.ts
+#EXTINF:-1,AZ: IDMAN AZARBEYCAM
+http://vip.goldtv.org:8000/live/piraziz/piraziz/18089.ts
 #EXTINF:-1,TIVIBUR SPORT TR
 http://topiptv.net:5890/live/samir/samir123/2215.ts
 #EXTINF:-1,TIVIBUR SPORT 2 TR
@@ -223,248 +535,6 @@ http://topiptv.net:5890/live/samir/samir123/1066.ts
 http://topiptv.net:5890/live/samir/samir123/1067.ts
 #EXTINF:-1,beIN SPORTS HD4 TR
 http://topiptv.net:5890/live/samir/samir123/4902.ts
-#EXTINF:-1,TR: beIN SPORTS 1
-http://ip.fannan.se:8000/live/2255/5522/7824.ts
-#EXTINF:-1,TR: beIN SPORTS 2
-http://ip.fannan.se:8000/live/2255/5522/7823.ts
-#EXTINF:-1,TR: beIN SPORTS 3
-http://ip.fannan.se:8000/live/2255/5522/7822.ts
-#EXTINF:-1,TR: beIN SPORTS 4
-http://ip.fannan.se:8000/live/2255/5522/7821.ts
-#EXTINF:-1,TR:tivubu_1
-http://ip.fannan.se:8000/live/2255/5522/7675.ts
-#EXTINF:-1,TR:tivubu_2
-http://ip.fannan.se:8000/live/2255/5522/7674.ts
-#EXTINF:-1,TR: BEINS SPORTS-1
-http://ip.fannan.se:8000/live/2255/5522/7811.ts
-#EXTINF:-1,TR: beIN SPORTS- 2
-http://ip.fannan.se:8000/live/2255/5522/7812.ts
-#EXTINF:-1,TR: SMARTSPOR HD
-http://ip.fannan.se:8000/live/2255/5522/7815.ts
-#EXTINF:-1,TR: TIVIBU SPOR 1
-http://ip.fannan.se:8000/live/2255/5522/7817.ts
-#EXTINF:-1,TR: TIVIBU SPOR 2
-http://ip.fannan.se:8000/live/2255/5522/7818.ts
-#EXTINF:-1,TR: TIVIBU SPOR 3
-http://ip.fannan.se:8000/live/2255/5522/7819.ts
-#EXTINF:-1,TR: TIVIBU SPOR 4
-http://ip.fannan.se:8000/live/2255/5522/7820.ts
-#EXTINF:-1,TR:A_Spor
-http://ip.fannan.se:8000/live/2255/5522/7666.ts
-#EXTINF:-1,TR:DSMART_1
-http://ip.fannan.se:8000/live/2255/5522/7673.ts
-#EXTINF:-1,TR:DSMART_2
-http://ip.fannan.se:8000/live/2255/5522/7672.ts
-#EXTINF:-1,TR_BEIN_SPORTS_1_HD
-http://afrique-local.hopto.org:8100/live/farid/12345678/2462.ts
-#EXTINF:-1,TR_BEIN_SPORTS_2_HD
-http://afrique-local.hopto.org:8100/live/farid/12345678/2463.ts
-#EXTINF:-1,TR:beIN SPORTS 3
-http://afrique-local.hopto.org:8100/live/farid/12345678/2464.ts
-#EXTINF:-1,TR_BEIN_sports_4_HD
-http://afrique-local.hopto.org:8100/live/farid/12345678/3556.ts
-#EXTINF:-1,TR: Smart  Spor 2
-http://afrique-local.hopto.org:8100/live/farid/12345678/2471.ts
-#EXTINF:-1,TR: Smart  Spor HD
-http://afrique-local.hopto.org:8100/live/farid/12345678/2470.ts
-#EXTINF:-1,TR_Tivibu_Spor
-http://afrique-local.hopto.org:8100/live/farid/12345678/2465.ts
-#EXTINF:-1,TR_Tivibu_Spor_ 2
-http://afrique-local.hopto.org:8100/live/farid/12345678/2466.ts
-#EXTINF:-1,TR_BEIN_SPORTS_1_HD
-http://iptv2017.ddns.net:8100/live/farid/12345678/2462.ts
-#EXTINF:-1,TR_BEIN_SPORTS_2_HD
-http://iptv2017.ddns.net:8100/live/farid/12345678/2463.ts
-#EXTINF:-1,TR:beIN SPORTS 3
-http://iptv2017.ddns.net:8100/live/farid/12345678/2464.ts
-#EXTINF:-1,TR_BEIN_sports_4_HD
-http://iptv2017.ddns.net:8100/live/farid/12345678/3556.ts
-#EXTINF:-1,TR: Smart  Spor 2
-http://iptv2017.ddns.net:8100/live/farid/12345678/2471.ts
-#EXTINF:-1,TR: Smart  Spor HD
-http://iptv2017.ddns.net:8100/live/farid/12345678/2470.ts
-#EXTINF:-1,TR_Tivibu_Spor
-http://iptv2017.ddns.net:8100/live/farid/12345678/2465.ts
-#EXTINF:-1,TR_Tivibu_Spor_ 2
-http://iptv2017.ddns.net:8100/live/farid/12345678/2466.ts
-#EXTINF:-1,TR: Bein Sport 1 HD
-http://ipsatpro.com:8080/live/hisha/hisha/2002.ts
-#EXTINF:-1,TR: Bein Sport 2 HD
-http://ipsatpro.com:8080/live/hisha/hisha/2001.ts
-#EXTINF:-1,TR: Bein Sport 3 HD
-http://ipsatpro.com:8080/live/hisha/hisha/2000.ts
-#EXTINF:-1,TR: Tivibu Spor 1 HD
-http://ipsatpro.com:8080/live/hisha/hisha/1997.ts
-#EXTINF:-1,TR: Tivibu Spor 2 HD
-http://ipsatpro.com:8080/live/hisha/hisha/1965.ts
-#EXTINF:-1,TR: Tivibu Spor 3 HD
-http://ipsatpro.com:8080/live/hisha/hisha/2170.ts
-#EXTINF:-1,TR: Tivibu Spor 4 HD
-http://ipsatpro.com:8080/live/hisha/hisha/2171.ts
-#EXTINF:-1,TR: Smart Sport HD
-http://ipsatpro.com:8080/live/hisha/hisha/1998.ts
-#EXTINF:-1,TR: S Sport HD
-http://ipsatpro.com:8080/live/hisha/hisha/1969.ts
-#EXTINF:-1,TR: NTV Spor
-http://ipsatpro.com:8080/live/hisha/hisha/1996.ts
-#EXTINF:-1,TR: TRT 1  Avrupa
-http://ipsatpro.com:8080/live/hisha/hisha/1959.ts
-#EXTINF:-1,TR: Bursa Spor tv
-http://ipsatpro.com:8080/live/hisha/hisha/1999.ts
-#EXTINF:-1,TR: IDMAN TV AZER
-http://ipsatpro.com:8080/live/hisha/hisha/2015.ts
-#EXTINF:-1,TR: TRT Sports
-http://ipsatpro.com:8080/live/hisha/hisha/1981.ts
-#EXTINF:-1,Bein Sport4 Hd Sager
-http://149.202.196.65:8080/live/ihsan1/ihsan1/359.ts
-#EXTINF:-1,Bein Sport3HD-SAger
-http://149.202.196.65:8080/live/ihsan1/ihsan1/358.ts
-#EXTINF:-1,Bein Sport1 HD
-http://149.202.196.65:8080/live/ihsan1/ihsan1/1.ts
-#EXTINF:-1,Bein MAX1
-http://149.202.196.65:8080/live/ihsan1/ihsan1/345.ts
-#EXTINF:-1,Bein MAX2
-http://149.202.196.65:8080/live/ihsan1/ihsan1/346.ts
-#EXTINF:-1,BeinSport2HD Sager
-http://149.202.196.65:8080/live/ihsan1/ihsan1/352.ts
-#EXTINF:-1,TR : BeiN  2 HD YEDEK
-http://arabic-tv-box.de:7777/live/khayat/khayat/25159.ts
-#EXTINF:-1,TR : BeiN 1 HD YEDEK
-http://arabic-tv-box.de:7777/live/khayat/khayat/25158.ts
-#EXTINF:-1,TR : Bein 3 HD YEDEK
-http://arabic-tv-box.de:7777/live/khayat/khayat/25157.ts
-#EXTINF:-1,TR : BeiN 4 HD YEDEK
-http://arabic-tv-box.de:7777/live/khayat/khayat/25156.ts
-#EXTINF:-1,TR : ASPOR HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25166.ts
-#EXTINF:-1,TR : BeiN SPORTS 1 1080
-http://arabic-tv-box.de:7777/live/khayat/khayat/25139.ts
-#EXTINF:-1,TR : BeiN SPORTS 1 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25138.ts
-#EXTINF:-1,TR : BeiN SPORTS 1 SD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25137.ts
-#EXTINF:-1,TR : BeiN SPORTS 2 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25136.ts
-#EXTINF:-1,TR : BeiN SPORTS 3 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25135.ts
-#EXTINF:-1,TR : BeiN SPORTS 4 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25134.ts
-#EXTINF:-1,TR : BeiN SPORTS HABER
-http://arabic-tv-box.de:7777/live/khayat/khayat/25133.ts
-#EXTINF:-1,TR : BeiN SPORTS MAX 1 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25132.ts
-#EXTINF:-1,TR : BeiN SPORTS MAX 2 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25131.ts
-#EXTINF:-1,TR : BEiNSPORT 1 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25130.ts
-#EXTINF:-1,TR : EURO SPORT 1 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25092.ts
-#EXTINF:-1,TR : EURO SPORT 2 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25091.ts
-#EXTINF:-1,TR : GALATASARAY TV HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/25070.ts
-#EXTINF:-1,TR : SMART SPOR HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24946.ts
-#EXTINF:-1,TR : SPORTSTV HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24944.ts
-#EXTINF:-1,TR : TiBiBU2
-http://arabic-tv-box.de:7777/live/khayat/khayat/24934.ts
-#EXTINF:-1,TR : TiViBU SPOR 1 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24933.ts
-#EXTINF:-1,TR : TiViBU SPOR 2 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24932.ts
-#EXTINF:-1,TR : TiViBU SPOR 3 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24931.ts
-#EXTINF:-1,TR : TiViBU SPOR 4 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24930.ts
-#EXTINF:-1,TR : TRT SPOR HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24920.ts
-#EXTINF:-1,TR : TVBU1 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24910.ts
-#EXTINF:-1,TR : TVBU2 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24909.ts
-#EXTINF:-1,TR : TVBU3 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24908.ts
-#EXTINF:-1,TR : TVBU4 HD
-http://arabic-tv-box.de:7777/live/khayat/khayat/24907.ts
-#EXTINF:-1,beIN SPORTS 1 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15719.ts
-#EXTINF:-1,beIN SPORTS 2 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15943.ts
-#EXTINF:-1,beIN SPORTS 2 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/6413.ts
-#EXTINF:-1,beIN SPORTS 3 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/6414.ts
-#EXTINF:-1,beIN SPORTS 3 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15721.ts
-#EXTINF:-1,beIN SPORTS 4 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15722.ts
-#EXTINF:-1,beIN SPORTS 4 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/13665.ts
-#EXTINF:-1,beIN SPORTS 1 FHD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/17739.ts
-#EXTINF:-1,beIN SPORTS 2 FHD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/17740.ts
-#EXTINF:-1,beIN SPORTS 3 FHD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/17741.ts
-#EXTINF:-1,beIN SPORTS 4 FHD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/19038.ts
-#EXTINF:-1,beIN SPORTS MAX 1 HD  TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15723.ts
-#EXTINF:-1,beIN SPORTS HABER HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/17896.ts
-#EXTINF:-1,Smart Spor TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/5209.ts
-#EXTINF:-1,A Spor HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/5133.ts
-#EXTINF:-1,TRT Spor HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/5122.ts
-#EXTINF:-1,GS TV TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/5143.ts
-#EXTINF:-1,A Spor FHD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/14239.ts
-#EXTINF:-1,Eurosport 1 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15730.ts
-#EXTINF:-1,Eurosport 2 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15731.ts
-#EXTINF:-1,Smart Spor FHD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15732.ts
-#EXTINF:-1,S Sport TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15733.ts
-#EXTINF:-1,Tivibu Spor HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/12755.ts
-#EXTINF:-1,Tivibu Spor 2 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/12756.ts
-#EXTINF:-1,Tivibu Spor 3 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15736.ts
-#EXTINF:-1,Tivibu Spor 4 HD TR
-http://190.2.141.227:80/live/lFHtgjw0035/R0Q3Nu0277/15737.ts
-#EXTINF:-1,|TR| beIN SPORTS 1
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2049.ts
-#EXTINF:-1,|TR| beIN SPORTS 2
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2048.ts
-#EXTINF:-1,|TR| beIN SPORTS 3
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2047.ts
-#EXTINF:-1,|TR| beIN SPORTS 4
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2046.ts
-#EXTINF:-1,|TR| A SPOR HD
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2024.ts
-#EXTINF:-1,|TR| Tivibu Sport 1
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/4636.ts
-#EXTINF:-1,|TR| Tivibu Sport 2
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/4633.ts
-#EXTINF:-1,|TR| Tivibu Sport 3
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/4634.ts
-#EXTINF:-1,|TR| Tivibu Sport 4
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/4635.ts
-#EXTINF:-1,|TR| TRT SPOR HD
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2026.ts
-#EXTINF:-1,|TR| S SPORT HD
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2029.ts
-#EXTINF:-1,|TR| EUROSPORT 1 HD
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2028.ts
-#EXTINF:-1,|TR| EUROSPORT 2 HD
-http://maxtvv.abdou123.com:9300/live/Tarik/Tarik2018/2027.ts
 #EXTINF:-1,Tr- beIN Sports 1 HD
 http://m-iptv.net:6204/live/alaa/ismail/11182.ts
 #EXTINF:-1,Tr- beIN Sports 2 HD
@@ -483,25 +553,73 @@ http://m-iptv.net:6204/live/alaa/ismail/6512.ts
 http://m-iptv.net:6204/live/alaa/ismail/6513.ts
 #EXTINF:-1,Tr- TiviBu Sport 3 HD
 http://m-iptv.net:6204/live/alaa/ismail/6514.ts
-#EXTINF:-1,Tr- A Sport HD
-http://m-iptv.net:6204/live/alaa/ismail/2172.ts
 #EXTINF:-1,Tr- beIN Sports 1 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/11182.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/11182.ts
 #EXTINF:-1,Tr- beIN Sports 2 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/2003.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/2003.ts
 #EXTINF:-1,Tr- beIN Sports 3 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/11181.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/11181.ts
 #EXTINF:-1,Tr- beIN Sports 4 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/11180.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/11180.ts
 #EXTINF:-1,Tr- beIN Sports MAX 1 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/11179.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/11179.ts
 #EXTINF:-1,Tr- beIN Sports MAX 2 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/11178.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/11178.ts
 #EXTINF:-1,Tr- TiviBu Sport 1 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/6512.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/6512.ts
 #EXTINF:-1,Tr- TiviBu Sport 2 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/6513.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/6513.ts
 #EXTINF:-1,Tr- TiviBu Sport 3 HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/6514.ts
-#EXTINF:-1,Tr- A Sport HD
-http://m-iptv.net:6204/live/bulbul/bulbul123/2172.ts
+http://m-iptv.net:6204/live/Youhana/Youhana/6514.ts
+#EXTINF:-1,Tr- beIN Sports 1 HD
+http://m-iptv.net:6204/live/hasan/123/11182.ts
+#EXTINF:-1,Tr- beIN Sports 2 HD
+http://m-iptv.net:6204/live/hasan/123/2003.ts
+#EXTINF:-1,Tr- beIN Sports 3 HD
+http://m-iptv.net:6204/live/hasan/123/11181.ts
+#EXTINF:-1,Tr- beIN Sports 4 HD
+http://m-iptv.net:6204/live/hasan/123/11180.ts
+#EXTINF:-1,Tr- beIN Sports MAX 1 HD
+http://m-iptv.net:6204/live/hasan/123/11179.ts
+#EXTINF:-1,Tr- beIN Sports MAX 2 HD
+http://m-iptv.net:6204/live/hasan/123/11178.ts
+#EXTINF:-1,Tr- Bein Sport 1 HD Backup2
+http://m-iptv.net:6204/live/hasan/123/13032.ts
+#EXTINF:-1,Tr- Bein Sport 2 HD Backup2
+http://m-iptv.net:6204/live/hasan/123/13031.ts
+#EXTINF:-1,Tr- Bein Sport 3 HD Backup2
+http://m-iptv.net:6204/live/hasan/123/13030.ts
+#EXTINF:-1,Tr- beIN Sports 1 HD Backup1
+http://m-iptv.net:6204/live/hasan/123/13034.ts
+#EXTINF:-1,Tr- beIN Sports 2 HD Backup1
+http://m-iptv.net:6204/live/hasan/123/13033.ts
+#EXTINF:-1,Tr- TiviBu Sport 1 HD
+http://m-iptv.net:6204/live/hasan/123/6512.ts
+#EXTINF:-1,Tr- TiviBu Sport 2 HD
+http://m-iptv.net:6204/live/hasan/123/6513.ts
+#EXTINF:-1,Tr- TiviBu Sport 3 HD
+http://m-iptv.net:6204/live/hasan/123/6514.ts
+#EXTINF:-1,TR:BeiN 1 HD
+http://190.2.152.168:9000/live/1234/1234567/16405.ts
+#EXTINF:-1,TR:BeiN  2 HD
+http://190.2.152.168:9000/live/1234/1234567/16406.ts
+#EXTINF:-1,TR:Bein 3 HD YEDEK
+http://190.2.152.168:9000/live/1234/1234567/16404.ts
+#EXTINF:-1,TR:BEIN_SPORTS_LIG_TV1
+http://190.2.152.168:9000/live/1234/1234567/4351.ts
+#EXTINF:-1,TR:BEIN_SPORTS_LIG_TV2
+http://190.2.152.168:9000/live/1234/1234567/4352.ts
+#EXTINF:-1,TR:BEIN_SPORTS_LIG_TV3
+http://190.2.152.168:9000/live/1234/1234567/4353.ts
+#EXTINF:-1,LIG TV 1
+http://37.59.17.187:8005/live/feim/feim/428.ts
+#EXTINF:-1,LIG TV 2
+http://37.59.17.187:8005/live/feim/feim/429.ts
+#EXTINF:-1,LIG TV 3
+http://37.59.17.187:8005/live/feim/feim/430.ts
+#EXTINF:-1,LIG TV 1
+http://37.59.17.187:8005/live/teuta/teuta/428.ts
+#EXTINF:-1,LIG TV 2
+http://37.59.17.187:8005/live/teuta/teuta/429.ts
+#EXTINF:-1,LIG TV 3
+http://37.59.17.187:8005/live/teuta/teuta/430.ts
