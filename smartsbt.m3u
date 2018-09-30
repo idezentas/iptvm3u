@@ -1,30 +1,20 @@
 #EXTM3U
 #EXTINF:-1,SPOR SMART HD
 http://ollocdn.online/ollomobananinamioc/102/playlist.m3u8
-#EXTINF:-1,SMART SPOR HD
-http://yeniharman.club:2052/mjolk/smartspor/chunks.m3u8
-#EXTINF:-1,TR | SMARTSPOR 1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/12.ts
 #EXTINF:-1,TR:) SMART SPOR
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/2971.ts
 #EXTINF:-1,TR:) SMART SPOR HD
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/1263.ts
 #EXTINF:-1,TR:) SMART SPOR HD+
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4154.ts
-#EXTINF:-1,TR| SMART SPOR HD 1080
-http://tre.tithis.com:2015/live/280690/280690/29977.ts
-#EXTINF:-1,TR_Y |SMARTSPOR HD (1920x1080)
-http://tre.tithis.com:2015/live/280690/280690/36478.ts
-#EXTINF:-1,TR | SMART SPORT HD
-http://tre.tithis.com:2015/live/280690/280690/10404.ts
-#EXTINF:-1,(TR) SMART SPOR 1 HD
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/92363.ts
-#EXTINF:-1,(TR) SMART SPOR 2 HD
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/92364.ts
-#EXTINF:-1,(TR) Smart Spor HD+
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6050.ts
-#EXTINF:-1,(TR) Smart Spor HD
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6051.ts
+#EXTINF:-1,TR | SMARTSPOR SD
+http://mtr.iptv35.com:1958/live/nova2/2nova/10753.ts
+#EXTINF:-1,TR_Y |SMART SPOR HD
+http://mtr.iptv35.com:1958/live/nova2/2nova/20026.ts
+#EXTINF:-1,TR | DSMART  SPOR SMART
+http://mtr.iptv35.com:1958/live/nova2/2nova/10183.ts
+#EXTINF:-1,TR | SMARTSPOR  UHD
+http://mtr.iptv35.com:1958/live/nova2/2nova/10754.ts
 #EXTINF:-1,TR:Spor Smart HD
 http://vip.goldtv.org:8000/live/piraziz/piraziz/2833.ts
 #EXTINF:-1,SMART SPORT TR
