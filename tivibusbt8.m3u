@@ -1,22 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TIVIBU SPOR
 http://ollocdn.online/ollomobananinamioc/605/playlist.m3u8
-#EXTINF:-1,TIVIBU SPOR_2
-http://yeniharman.club:2052/mjolk/tivibu1/chunks.m3u8
 #EXTINF:-1,TIVIBU SPOR 2
 http://ollocdn.online/ollomobananinamioc/606/playlist.m3u8
-#EXTINF:-1,TIVIBU SPOR 2_2
-http://yeniharman.club:2052/mjolk/tivibu2/chunks.m3u8
-#EXTINF:-1,TIVIBU SPOR 3_2
-http://yeniharman.club:2052/mjolk/tivibu3/chunks.m3u8
-#EXTINF:-1,TR | tivibu SPOR 1 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/17.m3u8
-#EXTINF:-1,TR | tivibu SPOR 2 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/16.m3u8
-#EXTINF:-1,TR | tivibu SPOR 3 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/15.m3u8
-#EXTINF:-1,TR | tivibu SPOR 4 HD
-http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/14.m3u8
 #EXTINF:-1,(TR) TIVIBU SPOR 2 HD (ALTERNATIF)
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/2970.m3u8
 #EXTINF:-1,(TR) TIVIBU SPOR HD (ALTERNATİF)
@@ -37,92 +23,16 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/4122.m3u8
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4124.m3u8
 #EXTINF:-1,TR:) TIVIBU SPOR 4 FHD
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4125.m3u8
+#EXTINF:-1,TR_Y |TiViBUSPOR 1 HD (1920x1080)
+http://mtr.iptv35.com:1958/live/nova2/2nova/20025.m3u8
+#EXTINF:-1,TR_Y |TiViBUSPOR 2 HD (1920x1080)
+http://mtr.iptv35.com:1958/live/nova2/2nova/20024.m3u8
+#EXTINF:-1,TR_Y |TiViBUSPOR 3 HD (1920x1080)
+http://mtr.iptv35.com:1958/live/nova2/2nova/20023.m3u8
+#EXTINF:-1,TR_Y |TiViBUSPOR 4 HD (1920x1080)
+http://mtr.iptv35.com:1958/live/nova2/2nova/20022.m3u8
 #EXTINF:-1,TR:) TIVIBU SPOR 5 FHD ( 82.KANAL )
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/20668.m3u8
-#EXTINF:-1,TR_Y |TiViBUSPOR 1 HD (1920x1080)
-http://tre.tithis.com:2015/live/280690/280690/36477.m3u8
-#EXTINF:-1,TR_Y |TiViBUSPOR 2 HD (1920x1080)
-http://tre.tithis.com:2015/live/280690/280690/36476.m3u8
-#EXTINF:-1,TR_Y |TiViBUSPOR 3 HD (1920x1080)
-http://tre.tithis.com:2015/live/280690/280690/36475.m3u8
-#EXTINF:-1,TR_Y |TiViBUSPOR 4 HD (1920x1080)
-http://tre.tithis.com:2015/live/280690/280690/36474.m3u8
-#EXTINF:-1,TR| Tivibu Spor 1 HD
-http://tre.tithis.com:2015/live/280690/280690/29993.m3u8
-#EXTINF:-1,TR| Tivibu Spor 1 HD 1080
-http://tre.tithis.com:2015/live/280690/280690/29992.m3u8
-#EXTINF:-1,TR| Tivibu Spor 2 HD
-http://tre.tithis.com:2015/live/280690/280690/29990.m3u8
-#EXTINF:-1,TR| Tivibu Spor 2 HD (1920x1080)
-http://tre.tithis.com:2015/live/280690/280690/29988.m3u8
-#EXTINF:-1,TR| Tivibu Spor 2 HD 1080
-http://tre.tithis.com:2015/live/280690/280690/29989.m3u8
-#EXTINF:-1,TR| Tivibu Spor 3 HD
-http://tre.tithis.com:2015/live/280690/280690/29987.m3u8
-#EXTINF:-1,TR| Tivibu Spor 3 HD 1080
-http://tre.tithis.com:2015/live/280690/280690/29986.m3u8
-#EXTINF:-1,TR| Tivibu Spor 4 HD
-http://tre.tithis.com:2015/live/280690/280690/29984.m3u8
-#EXTINF:-1,TR| Tivibu Spor 4 HD 1080
-http://tre.tithis.com:2015/live/280690/280690/29983.m3u8
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://tre.tithis.com:2015/live/280690/280690/7.m3u8
-#EXTINF:-1,TR | TIVIBU SPOR 2 HD
-http://tre.tithis.com:2015/live/280690/280690/951.m3u8
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://tre.tithis.com:2015/live/280690/280690/8026.m3u8
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://tre.tithis.com:2015/live/280690/280690/8027.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 1 HD (OZEL)
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145223.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 1 SD (OZEL)
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145224.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 2 HD (OZEL)
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145225.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 2 SD (OZEL)
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145226.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 3 HD (OZEL)
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145227.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 3 SD (OZEL)
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145228.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 4 HD (OZEL)
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145229.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 4 SD (OZEL)
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/145230.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 1 HD
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/2202.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 1
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/765.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 2
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/1449.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 2 HD YEDEK
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7581.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 2 SD+ SL
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6042.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 4 SD
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6043.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 1 HD+  SL
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7867.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 2 HD+  SL
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7868.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 3 HD+  SL
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7865.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 4 SD+  SL
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7864.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 1 SD
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/629.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 2 HD+
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6049.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR 2 SD
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/1450.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 3 HD+
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7181.m3u8
-#EXTINF:-1,(TR) Tivibu Spor 4 HD+
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/7182.m3u8
-#EXTINF:-1,(TR) TIVIBU SPOR HD
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/1468.m3u8
-#EXTINF:-1,(TR) Tivibu Spor HD+
-http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6048.m3u8
 #EXTINF:-1,TR:TIVIBU SPOR 1 HD
 http://vip.goldtv.org:8000/live/piraziz/piraziz/18454.ts
 #EXTINF:-1,TR:TIVIBU SPOR 2 HD
@@ -139,29 +49,3 @@ http://topiptv.net:5890/live/samir/samir123/2224.m3u8
 http://topiptv.net:5890/live/samir/samir123/4873.m3u8
 #EXTINF:-1,TIVIBUR SPORT 4 TR
 http://topiptv.net:5890/live/samir/samir123/4874.m3u8
-#EXTINF:-1,TIVIBUR SPORT TR
-http://topiptv.net:5890/live/samir/samir123/2215.ts
-#EXTINF:-1,TIVIBUR SPORT 2 TR
-http://topiptv.net:5890/live/samir/samir123/2224.ts
-#EXTINF:-1,TIVIBUR SPORT 3 TR
-http://topiptv.net:5890/live/samir/samir123/4873.ts
-#EXTINF:-1,TIVIBUR SPORT 4 TR
-http://topiptv.net:5890/live/samir/samir123/4874.ts
-#EXTINF:-1,Tr- TiviBu Sport 1 HD
-http://m-iptv.net:6204/live/alaa/ismail/6512.ts
-#EXTINF:-1,Tr- TiviBu Sport 2 HD
-http://m-iptv.net:6204/live/alaa/ismail/6513.ts
-#EXTINF:-1,Tr- TiviBu Sport 3 HD
-http://m-iptv.net:6204/live/alaa/ismail/6514.ts
-#EXTINF:-1,Tr- TiviBu Sport 1 HD
-http://m-iptv.net:6204/live/Youhana/Youhana/6512.ts
-#EXTINF:-1,Tr- TiviBu Sport 2 HD
-http://m-iptv.net:6204/live/Youhana/Youhana/6513.ts
-#EXTINF:-1,Tr- TiviBu Sport 3 HD
-http://m-iptv.net:6204/live/Youhana/Youhana/6514.ts
-#EXTINF:-1,Tr- TiviBu Sport 1 HD
-http://m-iptv.net:6204/live/hasan/123/6512.ts
-#EXTINF:-1,Tr- TiviBu Sport 2 HD
-http://m-iptv.net:6204/live/hasan/123/6513.ts
-#EXTINF:-1,Tr- TiviBu Sport 3 HD
-http://m-iptv.net:6204/live/hasan/123/6514.ts
