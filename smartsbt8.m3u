@@ -7,15 +7,5 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/2971.m3u8
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/1263.m3u8
 #EXTINF:-1,TR:) SMART SPOR HD+
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4154.m3u8
-#EXTINF:-1,TR | SMARTSPOR SD
-http://mtr.iptv35.com:1958/live/nova2/2nova/10753.m3u8
-#EXTINF:-1,TR_Y |SMART SPOR HD
-http://mtr.iptv35.com:1958/live/nova2/2nova/20026.m3u8
-#EXTINF:-1,TR | DSMART  SPOR SMART
-http://mtr.iptv35.com:1958/live/nova2/2nova/10183.m3u8
-#EXTINF:-1,TR | SMARTSPOR  UHD
-http://mtr.iptv35.com:1958/live/nova2/2nova/10754.m3u8
-#EXTINF:-1,TR:Spor Smart HD
-http://vip.goldtv.org:8000/live/piraziz/piraziz/2833.ts
 #EXTINF:-1,SMART SPORT TR
 http://topiptv.net:5890/live/samir/samir123/2217.m3u8
