@@ -23,24 +23,8 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/4122.ts
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4124.ts
 #EXTINF:-1,TR:) TIVIBU SPOR 4 FHD
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4125.ts
-#EXTINF:-1,TR_Y |TiViBUSPOR 1 HD (1920x1080)
-http://mtr.iptv35.com:1958/live/nova2/2nova/20025.ts
-#EXTINF:-1,TR_Y |TiViBUSPOR 2 HD (1920x1080)
-http://mtr.iptv35.com:1958/live/nova2/2nova/20024.ts
-#EXTINF:-1,TR_Y |TiViBUSPOR 3 HD (1920x1080)
-http://mtr.iptv35.com:1958/live/nova2/2nova/20023.ts
-#EXTINF:-1,TR_Y |TiViBUSPOR 4 HD (1920x1080)
-http://mtr.iptv35.com:1958/live/nova2/2nova/20022.ts
 #EXTINF:-1,TR:) TIVIBU SPOR 5 FHD ( 82.KANAL )
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/20668.ts
-#EXTINF:-1,TR:TIVIBU SPOR 1 HD
-http://vip.goldtv.org:8000/live/piraziz/piraziz/18454.ts
-#EXTINF:-1,TR:TIVIBU SPOR 2 HD
-http://vip.goldtv.org:8000/live/piraziz/piraziz/3698.ts
-#EXTINF:-1,TR:TIVIBU SPOR 3 HD
-http://vip.goldtv.org:8000/live/piraziz/piraziz/3694.ts
-#EXTINF:-1,TR:TIVIBU SPOR 4 HD
-http://vip.goldtv.org:8000/live/piraziz/piraziz/3695.ts
 #EXTINF:-1,TIVIBUR SPORT TR
 http://topiptv.net:5890/live/samir/samir123/2215.ts
 #EXTINF:-1,TIVIBUR SPORT 2 TR
