@@ -1,11 +1,19 @@
 #EXTM3U
 #EXTINF:-1,SPOR SMART HD
-http://ollocdn.online/ollomobananinamioc/102/playlist.m3u8
+http://ollocdn.tk/calmaartikorospuevladi/102/playlist.m3u8
 #EXTINF:-1,TR:) SMART SPOR
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/2971.ts
 #EXTINF:-1,TR:) SMART SPOR HD
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/1263.ts
 #EXTINF:-1,TR:) SMART SPOR HD+
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4154.ts
+#EXTINF:-1,(TR) SMART SPOR 1 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/92363.ts
+#EXTINF:-1,(TR) SMART SPOR 2 HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/92364.ts
+#EXTINF:-1,(TR) Smart Spor HD+
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6050.ts
+#EXTINF:-1,(TR) Smart Spor HD
+http://ip.sltv.be:8000/live/iVLNkSjlXW/PYoWszDOqQ/6051.ts
 #EXTINF:-1,SMART SPORT TR
 http://topiptv.net:5890/live/samir/samir123/2217.ts
