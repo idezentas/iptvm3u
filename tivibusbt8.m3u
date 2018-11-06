@@ -21,3 +21,27 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/4124.m3u8
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4125.m3u8
 #EXTINF:-1,TR:) TIVIBU SPOR 5 FHD ( 82.KANAL )
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/20668.m3u8
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/52.m3u8
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/53.m3u8
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/225.m3u8
+#EXTINF:-1,TR: TIVIBU SPOR 4 HD
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/226.m3u8
+#EXTINF:-1,TR: TIVIBUSPOR 2 (KOTA DOSTU)
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/1485.m3u8
+#EXTINF:-1,PREMIUM TR: TIVIBU SPOR 1 HD
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/1075.m3u8
+#EXTINF:-1,PREMIUM TR: TIVIBU SPOR 2 HD
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/1076.m3u8
+#EXTINF:-1,Tr- TiviBu Sport 1 HD
+http://linux-app.tv:6204/live/bulbul/bulbul123/6512.m3u8
+#EXTINF:-1,Tr- TiviBu Sport 2 HD
+http://linux-app.tv:6204/live/bulbul/bulbul123/6513.m3u8
+#EXTINF:-1,Tr- TiviBu Sport 3 HD
+http://linux-app.tv:6204/live/bulbul/bulbul123/6514.m3u8
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://toprockiptv.ddns.net:6500/live/fxs633r4/0yZLFlgQY3/13636.m3u8
+#EXTINF:-1,TR: TIVIBU SPOR 2HD
+http://toprockiptv.ddns.net:6500/live/fxs633r4/0yZLFlgQY3/13637.m3u8
