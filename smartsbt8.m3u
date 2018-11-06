@@ -5,3 +5,7 @@ http://uhd-iptv.life:8080/live/mevlut/mevlut123/2971.m3u8
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/1263.m3u8
 #EXTINF:-1,TR:) SMART SPOR HD+
 http://uhd-iptv.life:8080/live/mevlut/mevlut123/4154.m3u8
+#EXTINF:-1,TR: SMARTSPOR HD
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/153.m3u8
+#EXTINF:-1,PREMİUM: SMART SPOR HD
+http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/1490.m3u8
