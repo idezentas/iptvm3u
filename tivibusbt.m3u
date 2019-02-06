@@ -8,39 +8,39 @@ http://50.7.172.196/public/607/chunks.m3u8
 #EXTINF:-1,Tivibu Spor 4
 http://50.7.172.196/public/609/chunks.m3u8
 #EXTINF:-1,TR: TIVIBU SPOR 1 HD 1080 (SUNUCU 1)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65997
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65997.ts
 #EXTINF:-1,TR: TIVIBU SPOR 2 HD 1080 (SUNUCU 1)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65996
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65996.ts
 #EXTINF:-1,TR: TIVIBU SPOR 3 HD 1080 (SUNUCU 1)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65995
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65995.ts
 #EXTINF:-1,TR: TIVIBU SPOR 4 HD 1080 (SUNUCU 1)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65994
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65994.ts
 #EXTINF:-1,TR: TiViBUSPOR 1 HD. (SUNUCU 2)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65951
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65951.ts
 #EXTINF:-1,TR: TiViBUSPOR 2 HD. (SUNUCU 2)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65950
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65950.ts
 #EXTINF:-1,TR: TiViBUSPOR 3 HD. (SUNUCU 2)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65949
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65949.ts
 #EXTINF:-1,TR: TiViBUSPOR 4 HD. (SUNUCU 2)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65948
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65948.ts
 #EXTINF:-1,TR: TIVIBUSPOR 1 HD (SUNUCU 2)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65955
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65955.ts
 #EXTINF:-1,TR: TIVIBUSPOR 2 HD (SUNUCU 2)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65954
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65954.ts
 #EXTINF:-1,TR: TIVIBUSPOR 3 HD (SUNUCU 2)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65953
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65953.ts
 #EXTINF:-1,TR: TIVIBUSPOR 4 HD (SUNUCU 2)
-http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65952
+http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65952.ts
 #EXTINF:-1,TIVIBU SPOR 1 HD
-http://istnbl1453.com:8080/Ahmet/Coban/4131
+http://istnbl1453.com:8080/live/Ahmet/Coban/4131.ts
 #EXTINF:-1,TIVIBU SPOR 2 HD
-http://istnbl1453.com:8080/Ahmet/Coban/4130
+http://istnbl1453.com:8080/live/Ahmet/Coban/4130.ts
 #EXTINF:-1,TIVIBU SPOR 3 HD
-http://istnbl1453.com:8080/Ahmet/Coban/4129
+http://istnbl1453.com:8080/live/Ahmet/Coban/4129.ts
 #EXTINF:-1,TIVIBU SPOR 4 HD
-http://istnbl1453.com:8080/Ahmet/Coban/4128
+http://istnbl1453.com:8080/live/Ahmet/Coban/4128.ts
 #EXTINF:-1,TIVIBU 2 SD
-http://istnbl1453.com:8080/Ahmet/Coban/10747
+http://istnbl1453.com:8080/live/Ahmet/Coban/10747.ts
 #EXTINF:-1,TR - TİVİBU SPOR HD PLUS
 http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39550.ts
 #EXTINF:-1,TR - TIVIBU SPOR 1 HD
@@ -102,25 +102,25 @@ http://world.marvelhd.eu:8000/nizami/nizami123/1468
 #EXTINF:-1,TR: Tivibu Spor HD+
 http://world.marvelhd.eu:8000/nizami/nizami123/6048
 #EXTINF:-1,HD: TiViBUSPOR 1
-http://dnsdue.xyz:80/conrad/conrad/22
+http://dnsdue.xyz:80/live/conrad/conrad/22.ts
 #EXTINF:-1,HD: TiViBUSPOR 2
-http://dnsdue.xyz:80/conrad/conrad/23
+http://dnsdue.xyz:80/live/conrad/conrad/23.ts
 #EXTINF:-1,HD: TiViBUSPOR 3
-http://dnsdue.xyz:80/conrad/conrad/24
+http://dnsdue.xyz:80/live/conrad/conrad/24.ts
 #EXTINF:-1,HD: TiViBUSPOR 4
-http://dnsdue.xyz:80/conrad/conrad/25
+http://dnsdue.xyz:80/live/conrad/conrad/25.ts
 #EXTINF:-1,TR: TiViBU SPOR HD
-http://avrasyatv.net:2086/turgay/18062018/661
+http://avrasyatv.net:2086/live/turgay/18062018/661.ts
 #EXTINF:-1,TR: TiViBU SPOR 2 HD
-http://avrasyatv.net:2086/turgay/18062018/2916
+http://avrasyatv.net:2086/live/turgay/18062018/2916.ts
 #EXTINF:-1,TR: TiViBU SPOR 2 UHD
-http://avrasyatv.net:2086/turgay/18062018/2915
+http://avrasyatv.net:2086/live/turgay/18062018/2915.ts
 #EXTINF:-1,TR: TiViBU SPOR 2*
-http://avrasyatv.net:2086/turgay/18062018/730
+http://avrasyatv.net:2086/live/turgay/18062018/730.ts
 #EXTINF:-1,TR: TiViBU SPOR 3
-http://avrasyatv.net:2086/turgay/18062018/1117
+http://avrasyatv.net:2086/live/turgay/18062018/1117.ts
 #EXTINF:-1,TR: TiViBU SPOR 4
-http://avrasyatv.net:2086/turgay/18062018/2860
+http://avrasyatv.net:2086/live/turgay/18062018/2860.ts
 #EXTINF:-1,|TR| TIVIBU SPOR 1 HD
 http://siptv-online.com:8789/18291/stevenjuz@564/28510
 #EXTINF:-1,|TR| TIVIBU SPOR 2 HD
@@ -129,46 +129,18 @@ http://siptv-online.com:8789/18291/stevenjuz@564/28509
 http://siptv-online.com:8789/18291/stevenjuz@564/28508
 #EXTINF:-1,|TR| TIVIBU SPOR 4 HD
 http://siptv-online.com:8789/18291/stevenjuz@564/28507
-#EXTINF:-1,Tivibu  Spor 1 HD
-http://formen1.com:8080/zeynel1/1234/87
-#EXTINF:-1,Tivibu Spor 2 HD
-http://formen1.com:8080/zeynel1/1234/88
-#EXTINF:-1,Tivibu Spor  3 HD
-http://formen1.com:8080/zeynel1/1234/126
-#EXTINF:-1,Tivibu Spor 4 HD
-http://formen1.com:8080/zeynel1/1234/125
-#EXTINF:-1,TR VIP TIVIBUSPOR1
-http://nefesiptv.com:8080/rahmi/15092018/477
-#EXTINF:-1,TR VIP TIVIBUSPOR2
-http://nefesiptv.com:8080/rahmi/15092018/478
-#EXTINF:-1,TR VIP TIVIBUSPOR3
-http://nefesiptv.com:8080/rahmi/15092018/2127
-#EXTINF:-1,TR VIP TIVIBUSPOR4
-http://nefesiptv.com:8080/rahmi/15092018/28106
-#EXTINF:-1,TR TIVIBUSPOR1
-http://nefesiptv.com:8080/rahmi/15092018/30864
-#EXTINF:-1,TR TIVIBUSPOR2
-http://nefesiptv.com:8080/rahmi/15092018/30863
-#EXTINF:-1,TR TIVIBUSPOR3
-http://nefesiptv.com:8080/rahmi/15092018/30862
-#EXTINF:-1,TR TIVIBUSPOR4
-http://nefesiptv.com:8080/rahmi/15092018/30861
 #EXTINF:-1,tivibu.SPORT1
-http://www.jarodtv62000.com:8000/Abadli_mustapha/01112017/635
+http://www.jarodtv62000.com:8000/live/Abadli_mustapha/01112017/635.ts
 #EXTINF:-1,tivibu.SPORT2
-http://www.jarodtv62000.com:8000/Abadli_mustapha/01112017/636
+http://www.jarodtv62000.com:8000/live/Abadli_mustapha/01112017/636.ts
 #EXTINF:-1,Tr-Tivibuspor_HD1
-http://best4u.tn:8000/dmy6268/5584125/3526
+http://best4u.tn:8000/live/dmy6268/5584125/3526.ts
 #EXTINF:-1,Tr-Tivibuspor_HD2
-http://best4u.tn:8000/dmy6268/5584125/3527
+http://best4u.tn:8000/live/dmy6268/5584125/3527.ts
 #EXTINF:-1,Tr-Tivibuspor_HD3
-http://best4u.tn:8000/dmy6268/5584125/3528
+http://best4u.tn:8000/live/dmy6268/5584125/3528.ts
 #EXTINF:-1,Tr-Tivibuspor_HD4
-http://best4u.tn:8000/dmy6268/5584125/3529
-#EXTINF:-1,TURKISH | TIVUBU SPOR 1
-http://89.39.104.115:8000/bilo445/bilo445112conections/1305
-#EXTINF:-1,TURKISH | TIVUBU SPOR 2
-http://89.39.104.115:8000/bilo445/bilo445112conections/1304
+http://best4u.tn:8000/live/dmy6268/5584125/3529.ts
 #EXTINF:-1,Tr- TiviBu Sport 1 HD
 http://smart-hdip.com:6204/RDWAN/123/6512
 #EXTINF:-1,Tr- TiviBu Sport 2 HD
