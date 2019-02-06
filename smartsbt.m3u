@@ -1,11 +1,41 @@
 #EXTM3U
-#EXTINF:-1,TR:) SMART SPOR
-http://uhd-iptv.life:8080/live/mevlut/mevlut123/2971.ts
-#EXTINF:-1,TR:) SMART SPOR HD
-http://uhd-iptv.life:8080/live/mevlut/mevlut123/1263.ts
-#EXTINF:-1,TR:) SMART SPOR HD+
-http://uhd-iptv.life:8080/live/mevlut/mevlut123/4154.ts
-#EXTINF:-1,TR: SMARTSPOR HD
-http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/153.ts
-#EXTINF:-1,PREMİUM: SMART SPOR HD
-http://cdn.webtvplay.us:80/live/5291907/62933147d253d98bf64015a022ac02150fe8959c/1490.ts
+#EXTINF:-1,Smart Spor
+http://50.7.172.196/public/102/chunks.m3u8
+#EXTINF:-1,TR: SMARTSPOR HD 1080 (SUNUCU 1)
+http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65993
+#EXTINF:-1,TR: SMARTSPOR FHD (SUNUCU 2)
+http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65942
+#EXTINF:-1,TR: SMARTSPOR HD (SUNUCU 2)
+http://azra.eurovipserver.com:8080/Chan1970/Rd4qkcxOZU/65956
+#EXTINF:-1,SMART SPOR 1 HD
+http://istnbl1453.com:8080/Ahmet/Coban/4133
+#EXTINF:-1,SMART SPOR SD
+http://istnbl1453.com:8080/Ahmet/Coban/11449
+#EXTINF:-1,TR - SMART SPOR HD
+http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39553.ts
+#EXTINF:-1,TR: SMART SPOR  HD
+http://world.marvelhd.eu:8000/nizami/nizami123/92363
+#EXTINF:-1,TR: Smart Spor HD+
+http://world.marvelhd.eu:8000/nizami/nizami123/6050
+#EXTINF:-1,TR: Smart Spor HD
+http://world.marvelhd.eu:8000/nizami/nizami123/6051
+#EXTINF:-1,HD: SMARTSPOR
+http://dnsdue.xyz:80/conrad/conrad/27
+#EXTINF:-1,TR: SPOR SMART SD
+http://avrasyatv.net:2086/turgay/18062018/5359
+#EXTINF:-1,TR: SPOR SMART HD
+http://avrasyatv.net:2086/turgay/18062018/728
+#EXTINF:-1,TR: SPOR SMART UHD
+http://avrasyatv.net:2086/turgay/18062018/2583
+#EXTINF:-1,TR: SPOR SMART (TTNET only)
+http://avrasyatv.net:2086/turgay/18062018/5760
+#EXTINF:-1,|TR| SMART SPOR 1
+http://siptv-online.com:8789/18291/stevenjuz@564/28513
+#EXTINF:-1,D-smart Spor 1 Hd
+http://formen1.com:8080/zeynel1/1234/85
+#EXTINF:-1,TR SMARTSPOR UHD
+http://nefesiptv.com:8080/rahmi/15092018/30845
+#EXTINF:-1,TR SMARTSPOR HD
+http://nefesiptv.com:8080/rahmi/15092018/1637
+#EXTINF:-1,Smart.SPOR1
+http://www.jarodtv62000.com:8000/Abadli_mustapha/01112017/633
