@@ -1,46 +1,62 @@
 #EXTM3U
-#EXTINF:-1,Bein 1 1080p
-https://181-215-15-225.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 1080p
-http://185-8-178-138.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 1080p
-http://185-125-230-172.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 1080p
-http://185-8-178-138.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 1080p
-https://185-8-178-139.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 1080p
-https://185-8-178-140.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 720p
-https://185-8-178-140.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 576p
-https://vip7stream.pw/lba/123/g7/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 576p
-https://185-8-178-140.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,Bein 1 576p
-http://185-125-230-172.livesports24.online/bsporttur1.m3u8
-#EXTINF:-1,BEiN SPORT-2 575p
-https://vip7stream.pw/lba/123/g6/turbein2sport.m3u8
-#EXTINF:0,Bein Sports Hd 3
-https://vip7stream.pw/lba/123/g8/bein3turkey.m3u8
-#EXTINF:-1,Bein Sports 1
-http://50.7.172.196/public/601/chunks.m3u8
-#EXTINF:-1,Bein Sports 2
-http://50.7.172.196/public/602/chunks.m3u8
-#EXTINF:-1,Bein Sports 3
-http://50.7.172.196/public/603/chunks.m3u8
-#EXTINF:-1,Bein Sports 4
-http://50.7.172.196/public/604/chunks.m3u8
-#EXTINF:-1,Bein Sports Max 1
-http://50.7.172.196/public/805/chunks.m3u8
-#EXTINF:-1,Bein Sports Max 2
-http://50.7.172.196/public/806/chunks.m3u8
-#EXTINF:-1,Bein Sports Haber
-http://50.7.172.196/public/1/chunks.m3u8
 #EXTINF:-1,Bein Sports Max 1
 http://163.172.213.23:2016/includes/.css/xml/streams/2901_.m3u8
 #EXTINF:-1,Bein Sports Haber
 http://163.172.213.23:2016/includes/.css/xml/streams/3254_.m3u8
+#EXTINF:-1,TR: beIN SPORTS HABER HD
+http://avrasyatv.net:2086/live/turgay/18062018/3137.ts
+#EXTINF:-1,TR: BEIN SPORT 1 SD (DUSUK INTERNET)
+http://avrasyatv.net:2086/live/turgay/18062018/2571.ts
+#EXTINF:-1,TR: BEIN SPORT 1 SD (TTNET ONLY)
+http://avrasyatv.net:2086/live/turgay/18062018/5723.ts
+#EXTINF:-1,TR: bEIN SPORT 1 HD (TTNET ONLY)
+http://avrasyatv.net:2086/live/turgay/18062018/5719.ts
+#EXTINF:-1,TR: BEIN SPORT 1 UHD (TTNET ONLY)
+http://avrasyatv.net:2086/live/turgay/18062018/5720.ts
+#EXTINF:-1,TR: BEIN SPORT 2 SD
+http://avrasyatv.net:2086/live/turgay/18062018/2589.ts
+#EXTINF:-1,TR: BEIN SPORT 3 SD
+http://avrasyatv.net:2086/live/turgay/18062018/3134.ts
+#EXTINF:-1,TR: BEIN SPORT 1 HD
+http://avrasyatv.net:2086/live/turgay/18062018/626.ts
+#EXTINF:-1,TR: BEIN SPORT 2 HD
+http://avrasyatv.net:2086/live/turgay/18062018/627.ts
+#EXTINF:-1,TR: BEIN SPORT 3 HD
+http://avrasyatv.net:2086/live/turgay/18062018/628.ts
+#EXTINF:-1,TR: BEIN SPORT 4 HD
+http://avrasyatv.net:2086/live/turgay/18062018/629.ts
+#EXTINF:-1,TR: BEIN SPORT 1 UHD
+http://avrasyatv.net:2086/live/turgay/18062018/2883.ts
+#EXTINF:-1,TR: BEIN SPORT 2 UHD
+http://avrasyatv.net:2086/live/turgay/18062018/2884.ts
+#EXTINF:-1,TR: BEIN SPORT 3 UHD
+http://avrasyatv.net:2086/live/turgay/18062018/2885.ts
+#EXTINF:-1,TR: BEIN SPORT 1 H265
+http://avrasyatv.net:2086/live/turgay/18062018/3433.ts
+#EXTINF:-1,TR: BEIN SPORT 2 H265
+http://avrasyatv.net:2086/live/turgay/18062018/3432.ts
+#EXTINF:-1,TR: BEIN SPORT 3 H265
+http://avrasyatv.net:2086/live/turgay/18062018/3635.ts
+#EXTINF:-1,BeIN Sports-1-digiplay
+http://avrasyatv.net:2086/live/turgay/18062018/2849.ts
+#EXTINF:-1,BeIN Sports-2-digiplay
+http://avrasyatv.net:2086/live/turgay/18062018/2850.ts
+#EXTINF:-1,BeIN Sports-3-digiplay
+http://avrasyatv.net:2086/live/turgay/18062018/2851.ts
+#EXTINF:-1,BeIN Sports-4-digiplay
+http://avrasyatv.net:2086/live/turgay/18062018/2852.ts
+#EXTINF:-1,TR: BEIN SPORT MAX 1
+http://avrasyatv.net:2086/live/turgay/18062018/2507.ts
+#EXTINF:-1,TR: BEIN SPORT MAX 2
+http://avrasyatv.net:2086/live/turgay/18062018/2551.ts
+#EXTINF:-1,|TR| BEINSPORT 1 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/28517
+#EXTINF:-1,|TR| BEINSPORT 2 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/28516
+#EXTINF:-1,|TR| BEINSPORT 3 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/28515
+#EXTINF:-1,|TR| BEINSPORT 4 HD
+http://siptv-online.com:8789/18291/stevenjuz@564/28514
 #EXTINF:-1,TR: BEIN SPORTS HABER HD 1080 (SUNUCU 1)
 http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/66015.ts
 #EXTINF:-1,TR: BEIN SPORT HABER HD (SUNUCU 2)
@@ -177,78 +193,6 @@ http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39555.ts
 http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39554.ts
 #EXTINF:-1,TR - BEIN SPORTS HABER HD PLUS
 http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39545.ts
-#EXTINF:-1,TR: BEIN SPORT HABER
-http://world.marvelhd.eu:8000/nizami/nizami123/129036
-#EXTINF:-1,TR: BEiN SPORT-1 ULTRA HD (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/138606
-#EXTINF:-1,TR: BEiN SPORT-1 SD (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/117625
-#EXTINF:-1,TR: BEiN SPORT-1 480P (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/138607
-#EXTINF:-1,TR: BEiN SPORT-1 HD+ (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/112339
-#EXTINF:-1,TR: BEiN SPORT-2 HD (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/109187
-#EXTINF:-1,TR: BEiN SPORT-2 SD (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/117626
-#EXTINF:-1,TR: BEiN SPORT-2 480P (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/162815
-#EXTINF:-1,TR: BEiN SPORT-3 HD (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/109186
-#EXTINF:-1,TR: BEiN SPORT-3 SD (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/117627
-#EXTINF:-1,TR: BEiN SPORT-3 480P (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/162816
-#EXTINF:-1,TR: BEiN SPORT-4 HD (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/109185
-#EXTINF:-1,TR: BEiN SPORT-4 SD (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/117628
-#EXTINF:-1,TR: BEiN SPORT-4 480P (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/162817
-#EXTINF:-1,TR: BEiN SPORT MAX 1 (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/114448
-#EXTINF:-1,TR: BEiN SPORT MAX-1 480P (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/162818
-#EXTINF:-1,TR: BEiN SPORT MAX 2 (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/114449
-#EXTINF:-1,TR: BEiN SPORT MAX-2 480P (OZEL)
-http://world.marvelhd.eu:8000/nizami/nizami123/162819
-#EXTINF:-1,TR: BEINSPOR 1 HD
-http://world.marvelhd.eu:8000/nizami/nizami123/123295
-#EXTINF:-1,TR: BEINSPOR 2 HD
-http://world.marvelhd.eu:8000/nizami/nizami123/123296
-#EXTINF:-1,TR: BEINSPOR 3 HD
-http://world.marvelhd.eu:8000/nizami/nizami123/123297
-#EXTINF:-1,TR: BEINSPOR 4 HD
-http://world.marvelhd.eu:8000/nizami/nizami123/123298
-#EXTINF:-1,TR: BEIN SPOR 1 MATCH TIME
-http://world.marvelhd.eu:8000/nizami/nizami123/6046
-#EXTINF:-1,TR: BEIN SPOR 1 SD++
-http://world.marvelhd.eu:8000/nizami/nizami123/8070
-#EXTINF:-1,TR: BEIN SPOR 1 HD+
-http://world.marvelhd.eu:8000/nizami/nizami123/7594
-#EXTINF:-1,TR: BEIN SPOR 2 HD+
-http://world.marvelhd.eu:8000/nizami/nizami123/7595
-#EXTINF:-1,TR: BEIN SPOR 3 HD+
-http://world.marvelhd.eu:8000/nizami/nizami123/7596
-#EXTINF:-1,TR: BEIN SPOR 4 HD+
-http://world.marvelhd.eu:8000/nizami/nizami123/7597
-#EXTINF:-1,TR: BEIN SPOR 1 HD+ MATCH TIME
-http://world.marvelhd.eu:8000/nizami/nizami123/8067
-#EXTINF:-1,TR: BEIN SPOR 1
-http://world.marvelhd.eu:8000/nizami/nizami123/630
-#EXTINF:-1,TR: BEIN SPOR 2
-http://world.marvelhd.eu:8000/nizami/nizami123/631
-#EXTINF:-1,TR: BEIN SPOR 3
-http://world.marvelhd.eu:8000/nizami/nizami123/632
-#EXTINF:-1,TR: BEIN SPOR 4
-http://world.marvelhd.eu:8000/nizami/nizami123/2120
-#EXTINF:-1,TR: BEIN SPOR TV  1 SD VIP
-http://world.marvelhd.eu:8000/nizami/nizami123/957
-#EXTINF:-1,TR: BEIN SPOR TV 1
-http://world.marvelhd.eu:8000/nizami/nizami123/2795
-#EXTINF:-1,TR: BEIN SPOR TV  4
-http://world.marvelhd.eu:8000/nizami/nizami123/2798
 #EXTINF:-1,UHD: BeIN SPOR 1
 http://dnsdue.xyz:80/live/conrad/conrad/21919.ts
 #EXTINF:-1,HD: BeIN SPOR 1
@@ -281,105 +225,9 @@ http://dnsdue.xyz:80/live/conrad/conrad/13.ts
 http://dnsdue.xyz:80/live/conrad/conrad/21.ts
 #EXTINF:-1,HD: BeIN SPOR MAX 2
 http://dnsdue.xyz:80/live/conrad/conrad/14.ts
-#EXTINF:-1,TR: beIN SPORTS HABER HD
-http://avrasyatv.net:2086/live/turgay/18062018/3137.ts
-#EXTINF:-1,TR: BEIN SPORT 1 SD (DUSUK INTERNET)
-http://avrasyatv.net:2086/live/turgay/18062018/2571.ts
-#EXTINF:-1,TR: BEIN SPORT 1 SD (TTNET ONLY)
-http://avrasyatv.net:2086/live/turgay/18062018/5723.ts
-#EXTINF:-1,TR: bEIN SPORT 1 HD (TTNET ONLY)
-http://avrasyatv.net:2086/live/turgay/18062018/5719.ts
-#EXTINF:-1,TR: BEIN SPORT 1 UHD (TTNET ONLY)
-http://avrasyatv.net:2086/live/turgay/18062018/5720.ts
-#EXTINF:-1,TR: BEIN SPORT 2 SD
-http://avrasyatv.net:2086/live/turgay/18062018/2589.ts
-#EXTINF:-1,TR: BEIN SPORT 3 SD
-http://avrasyatv.net:2086/live/turgay/18062018/3134.ts
-#EXTINF:-1,TR: BEIN SPORT 1 HD
-http://avrasyatv.net:2086/live/turgay/18062018/626.ts
-#EXTINF:-1,TR: BEIN SPORT 2 HD
-http://avrasyatv.net:2086/live/turgay/18062018/627.ts
-#EXTINF:-1,TR: BEIN SPORT 3 HD
-http://avrasyatv.net:2086/live/turgay/18062018/628.ts
-#EXTINF:-1,TR: BEIN SPORT 4 HD
-http://avrasyatv.net:2086/live/turgay/18062018/629.ts
-#EXTINF:-1,TR: BEIN SPORT 1 UHD
-http://avrasyatv.net:2086/live/turgay/18062018/2883.ts
-#EXTINF:-1,TR: BEIN SPORT 2 UHD
-http://avrasyatv.net:2086/live/turgay/18062018/2884.ts
-#EXTINF:-1,TR: BEIN SPORT 3 UHD
-http://avrasyatv.net:2086/live/turgay/18062018/2885.ts
-#EXTINF:-1,TR: BEIN SPORT 1 H265
-http://avrasyatv.net:2086/live/turgay/18062018/3433.ts
-#EXTINF:-1,TR: BEIN SPORT 2 H265
-http://avrasyatv.net:2086/live/turgay/18062018/3432.ts
-#EXTINF:-1,TR: BEIN SPORT 3 H265
-http://avrasyatv.net:2086/live/turgay/18062018/3635.ts
-#EXTINF:-1,BeIN Sports-1-digiplay
-http://avrasyatv.net:2086/live/turgay/18062018/2849.ts
-#EXTINF:-1,BeIN Sports-2-digiplay
-http://avrasyatv.net:2086/live/turgay/18062018/2850.ts
-#EXTINF:-1,BeIN Sports-3-digiplay
-http://avrasyatv.net:2086/live/turgay/18062018/2851.ts
-#EXTINF:-1,BeIN Sports-4-digiplay
-http://avrasyatv.net:2086/live/turgay/18062018/2852.ts
-#EXTINF:-1,TR: BEIN SPORT MAX 1
-http://avrasyatv.net:2086/live/turgay/18062018/2507.ts
-#EXTINF:-1,TR: BEIN SPORT MAX 2
-http://avrasyatv.net:2086/live/turgay/18062018/2551.ts
-#EXTINF:-1,|TR| BEINSPORT 1 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/28517
-#EXTINF:-1,|TR| BEINSPORT 2 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/28516
-#EXTINF:-1,|TR| BEINSPORT 3 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/28515
-#EXTINF:-1,|TR| BEINSPORT 4 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/28514
-#EXTINF:-1,Bein Sports 1 TR
-http://marsgames.club:7070/live/amitashr@gmail.com/b9L1blOVqW/1827.ts
-#EXTINF:-1,Bein Sports 2 TR
-http://marsgames.club:7070/live/amitashr@gmail.com/b9L1blOVqW/1826.ts
-#EXTINF:-1,Bein Sports 3 TR
-http://marsgames.club:7070/live/amitashr@gmail.com/b9L1blOVqW/1825.ts
-#EXTINF:-1,Bein Sports MAX 1 TR
-http://marsgames.club:7070/live/amitashr@gmail.com/b9L1blOVqW/1824.ts
-#EXTINF:-1,Bein Sports MAX 2 TR
-http://marsgames.club:7070/live/amitashr@gmail.com/b9L1blOVqW/1823.ts
 #EXTINF:-1,beIN.SPOR.1
 http://www.jarodtv62000.com:8000/live/Abadli_mustapha/01112017/630.ts
 #EXTINF:-1,beIN.SPOR.2
 http://www.jarodtv62000.com:8000/live/Abadli_mustapha/01112017/631.ts
 #EXTINF:-1,beIN.SPOR.3
 http://www.jarodtv62000.com:8000/live/Abadli_mustapha/01112017/632.ts
-#EXTINF:-1,TR-LIGTV_1_HD
-http://best4u.tn:8000/live/dmy6268/5584125/3398.ts
-#EXTINF:-1,TR-LIGTV_2_HD
-http://best4u.tn:8000/live/dmy6268/5584125/3399.ts
-#EXTINF:-1,TR-LIGTV_3_HD
-http://best4u.tn:8000/live/dmy6268/5584125/3400.ts
-#EXTINF:-1,Tr-LIGTV_4HD
-http://best4u.tn:8000/live/dmy6268/5584125/3565.ts
-#EXTINF:-1,Tr- Bein Sport 1 HD
-http://smart-hdip.com:6204/RDWAN/123/11182
-#EXTINF:-1,Tr- Bein Sport 2 HD
-http://smart-hdip.com:6204/RDWAN/123/2003
-#EXTINF:-1,Tr- beIN Sport 1 HD Backup
-http://smart-hdip.com:6204/RDWAN/123/13034
-#EXTINF:-1,Tr- beIN Sport 2 HD Backup
-http://smart-hdip.com:6204/RDWAN/123/13033
-#EXTINF:-1,Tr- Bein Sport 3 HD Backup
-http://smart-hdip.com:6204/RDWAN/123/13030
-#EXTINF:-1,Tr- beIN Sport 4 HD Backup
-http://smart-hdip.com:6204/RDWAN/123/14026
-#EXTINF:-1,Tr- Bein Sport 1 HD
-http://smart-hdip.com:6204/sumbul/sumbul1234/11182
-#EXTINF:-1,Tr- Bein Sport 2 HD
-http://smart-hdip.com:6204/sumbul/sumbul1234/2003
-#EXTINF:-1,Tr- beIN Sport 1 HD Backup
-http://smart-hdip.com:6204/sumbul/sumbul1234/13034
-#EXTINF:-1,Tr- beIN Sport 2 HD Backup
-http://smart-hdip.com:6204/sumbul/sumbul1234/13033
-#EXTINF:-1,Tr- Bein Sport 3 HD Backup
-http://smart-hdip.com:6204/sumbul/sumbul1234/13030
-#EXTINF:-1,Tr- beIN Sport 4 HD Backup
-http://smart-hdip.com:6204/sumbul/sumbul1234/14026
