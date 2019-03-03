@@ -1,60 +1,10 @@
 #EXTM3U
-#EXTINF:-1,TR: TiViBU SPOR HD
-http://avrasyatv.net:2086/live/turgay/18062018/661.ts
-#EXTINF:-1,TR: TiViBU SPOR 2 HD
-http://avrasyatv.net:2086/live/turgay/18062018/2916.ts
-#EXTINF:-1,TR: TiViBU SPOR 2 UHD
-http://avrasyatv.net:2086/live/turgay/18062018/2915.ts
-#EXTINF:-1,TR: TiViBU SPOR 2*
-http://avrasyatv.net:2086/live/turgay/18062018/730.ts
-#EXTINF:-1,TR: TiViBU SPOR 3
-http://avrasyatv.net:2086/live/turgay/18062018/1117.ts
-#EXTINF:-1,TR: TiViBU SPOR 4
-http://avrasyatv.net:2086/live/turgay/18062018/2860.ts
-#EXTINF:-1,TR: TIVIBU SPOR 1 HD 1080 (SUNUCU 1)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65997.ts
-#EXTINF:-1,TR: TIVIBU SPOR 2 HD 1080 (SUNUCU 1)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65996.ts
-#EXTINF:-1,TR: TIVIBU SPOR 3 HD 1080 (SUNUCU 1)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65995.ts
-#EXTINF:-1,TR: TIVIBU SPOR 4 HD 1080 (SUNUCU 1)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65994.ts
-#EXTINF:-1,TR: TiViBUSPOR 1 HD. (SUNUCU 2)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65951.ts
-#EXTINF:-1,TR: TiViBUSPOR 2 HD. (SUNUCU 2)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65950.ts
-#EXTINF:-1,TR: TiViBUSPOR 3 HD. (SUNUCU 2)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65949.ts
-#EXTINF:-1,TR: TiViBUSPOR 4 HD. (SUNUCU 2)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65948.ts
-#EXTINF:-1,TR: TIVIBUSPOR 1 HD (SUNUCU 2)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65955.ts
-#EXTINF:-1,TR: TIVIBUSPOR 2 HD (SUNUCU 2)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65954.ts
-#EXTINF:-1,TR: TIVIBUSPOR 3 HD (SUNUCU 2)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65953.ts
-#EXTINF:-1,TR: TIVIBUSPOR 4 HD (SUNUCU 2)
-http://azra.eurovipserver.com:8080/live/Chan1970/Rd4qkcxOZU/65952.ts
-#EXTINF:-1,TIVIBU SPOR 1 HD
-http://istnbl1453.com:8080/live/Ahmet/Coban/4131.ts
-#EXTINF:-1,TIVIBU SPOR 2 HD
-http://istnbl1453.com:8080/live/Ahmet/Coban/4130.ts
-#EXTINF:-1,TIVIBU SPOR 3 HD
-http://istnbl1453.com:8080/live/Ahmet/Coban/4129.ts
-#EXTINF:-1,TIVIBU SPOR 4 HD
-http://istnbl1453.com:8080/live/Ahmet/Coban/4128.ts
-#EXTINF:-1,TIVIBU 2 SD
-http://istnbl1453.com:8080/live/Ahmet/Coban/10747.ts
-#EXTINF:-1,TR - TİVİBU SPOR HD PLUS
-http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39550.ts
-#EXTINF:-1,TR - TIVIBU SPOR 1 HD
-http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39549.ts
-#EXTINF:-1,TR - TIVIBU SPOR 2 HD
-http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39548.ts
-#EXTINF:-1,TR - TIVIBU SPOR 3 HD
-http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39547.ts
-#EXTINF:-1,TR - TIVIBU SPOR 4 HD
-http://sunatv.co:80/live/DTf6KEaSUN/LphgTlRN0n/39546.ts
+#EXTINF:-1,Tivibu Sport 1 HD
+http://rb-group-server.com:25461/live/anis/yakka/5268.ts
+#EXTINF:-1,Tivibu Sport 2 HD
+http://rb-group-server.com:25461/live/anis/yakka/5267.ts
+#EXTINF:-1,Tivibu Sport 3 HD
+http://rb-group-server.com:25461/live/anis/yakka/5266.ts
 #EXTINF:-1,HD: TiViBUSPOR 1
 http://dnsdue.xyz:80/live/conrad/conrad/22.ts
 #EXTINF:-1,HD: TiViBUSPOR 2
@@ -63,15 +13,63 @@ http://dnsdue.xyz:80/live/conrad/conrad/23.ts
 http://dnsdue.xyz:80/live/conrad/conrad/24.ts
 #EXTINF:-1,HD: TiViBUSPOR 4
 http://dnsdue.xyz:80/live/conrad/conrad/25.ts
-#EXTINF:-1,|TR| TIVIBU SPOR 1 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/28510
-#EXTINF:-1,|TR| TIVIBU SPOR 2 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/28509
-#EXTINF:-1,|TR| TIVIBU SPOR 3 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/28508
-#EXTINF:-1,|TR| TIVIBU SPOR 4 HD
-http://siptv-online.com:8789/18291/stevenjuz@564/28507
-#EXTINF:-1,tivibu.SPORT1
-http://www.jarodtv62000.com:8000/live/Abadli_mustapha/01112017/635.ts
-#EXTINF:-1,tivibu.SPORT2
-http://www.jarodtv62000.com:8000/live/Abadli_mustapha/01112017/636.ts
+#EXTINF:-1,TR| Tivibu Spor 1 HD
+http://tre.tithis.com:2015/live/yildiran/yildiran123/29993.ts
+#EXTINF:-1,TR| Tivibu Spor 1 HD 1080
+http://tre.tithis.com:2015/live/yildiran/yildiran123/29992.ts
+#EXTINF:-1,TR| Tivibu Spor 2 HD
+http://tre.tithis.com:2015/live/yildiran/yildiran123/29990.ts
+#EXTINF:-1,TR| Tivibu Spor 2 HD 1080
+http://tre.tithis.com:2015/live/yildiran/yildiran123/29989.ts
+#EXTINF:-1,TR| Tivibu Spor 3 HD
+http://tre.tithis.com:2015/live/yildiran/yildiran123/29987.ts
+#EXTINF:-1,TR| Tivibu Spor 3 HD 1080
+http://tre.tithis.com:2015/live/yildiran/yildiran123/29986.ts
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://tre.tithis.com:2015/live/yildiran/yildiran123/7.ts
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD
+http://tre.tithis.com:2015/live/yildiran/yildiran123/951.ts
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://tre.tithis.com:2015/live/yildiran/yildiran123/8026.ts
+#EXTINF:-1,TUR | TIVIBU SPORT 1
+http://p5.giffy.be:8080/live/ulises/123456/96832.ts
+#EXTINF:-1,TUR | TIVIBU SPORT 2
+http://p5.giffy.be:8080/live/ulises/123456/96830.ts
+#EXTINF:-1,TUR | TIVIBU SPORT 3
+http://p5.giffy.be:8080/live/ulises/123456/96828.ts
+#EXTINF:-1,TUR | TIVIBU SPORT 4
+http://p5.giffy.be:8080/live/ulises/123456/96827.ts
+#EXTINF:-1,TUR | Tivibuspor 1
+http://p5.giffy.be:8080/live/ulises/123456/96831.ts
+#EXTINF:-1,TUR | Tivibuspor 2
+http://p5.giffy.be:8080/live/ulises/123456/96829.ts
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD-
+http://x.mytvxweb.me:25461/live/100896/100896/16657.ts
+#EXTINF:-1,TR | TIVIBUSPOR 1 HD-
+http://x.mytvxweb.me:25461/live/100896/100896/16656.ts
+#EXTINF:-1,TR | TIVIBUSPOR 3 HD-
+http://x.mytvxweb.me:25461/live/100896/100896/16655.ts
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD-
+http://x.mytvxweb.me:25461/live/100555/100555/16657.ts
+#EXTINF:-1,TR | TIVIBUSPOR 1 HD-
+http://x.mytvxweb.me:25461/live/100555/100555/16656.ts
+#EXTINF:-1,TR | TIVIBUSPOR 3 HD-
+http://x.mytvxweb.me:25461/live/100555/100555/16655.ts
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD-
+http://x.mytvxweb.me:25461/live/100881/100881/16657.ts
+#EXTINF:-1,TR | TIVIBUSPOR 1 HD-
+http://x.mytvxweb.me:25461/live/100881/100881/16656.ts
+#EXTINF:-1,TR | TIVIBUSPOR 3 HD-
+http://x.mytvxweb.me:25461/live/100881/100881/16655.ts
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD-
+http://x.mytvxweb.me:25461/live/100764/100764/16657.ts
+#EXTINF:-1,TR | TIVIBUSPOR 1 HD-
+http://x.mytvxweb.me:25461/live/100764/100764/16656.ts
+#EXTINF:-1,TR | TIVIBUSPOR 3 HD-
+http://x.mytvxweb.me:25461/live/100764/100764/16655.ts
+#EXTINF:-1,TR | TIVIBU SPOR 2 HD-
+http://x.mytvxweb.me:25461/live/100661/100661/16657.ts
+#EXTINF:-1,TR | TIVIBUSPOR 1 HD-
+http://x.mytvxweb.me:25461/live/100661/100661/16656.ts
+#EXTINF:-1,TR | TIVIBUSPOR 3 HD-
+http://x.mytvxweb.me:25461/live/100661/100661/16655.ts
