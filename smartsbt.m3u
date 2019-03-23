@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Smart Sport HD
-http://rb-group-server.com:25461/live/anis/yakka/5264.ts
-#EXTINF:-1,HD: SMARTSPOR
-http://dnsdue.xyz:80/live/conrad/conrad/27.ts
-#EXTINF:-1,TR| SMART SPOR HD 1080
-http://tre.tithis.com:2015/live/yildiran/yildiran123/29977.ts
-#EXTINF:-1,TR | SMART SPORT HD
-http://tre.tithis.com:2015/live/yildiran/yildiran123/10404.ts
-#EXTINF:-1,DS| SPOR SMART
-http://tre.tithis.com:2015/live/yildiran/yildiran123/31943.ts
-#EXTINF:-1,TUR | Smart Spor
-http://p5.giffy.be:8080/live/ulises/123456/96838.ts
-#EXTINF:-1,TUR | Smart Spor 1
-http://p5.giffy.be:8080/live/ulises/123456/96837.ts
+#EXTINF:-1,Smart Spor taraftartv
+http://z2.bylig3.com:8081/taraftartv4/smartspor/playlist.m3u8
 #EXTINF:-1,TR | SMART SPOR HD-
 http://x.mytvxweb.me:25461/live/100896/100896/16663.ts
 #EXTINF:-1,TR | SMART SPOR HD-
@@ -23,3 +11,43 @@ http://x.mytvxweb.me:25461/live/100881/100881/16663.ts
 http://x.mytvxweb.me:25461/live/100764/100764/16663.ts
 #EXTINF:-1,TR | SMART SPOR HD-
 http://x.mytvxweb.me:25461/live/100661/100661/16663.ts
+#EXTINF:-1,|TR| SMART SPOR 1
+http://siptv-online.com:8789/27647/DtB0OJy2s3/28513
+#EXTINF:-1,|TR| SMART SPOR 1
+http://iptvpro.vision-new.org:8789/adriana/adriana1234/13876
+#EXTINF:-1,Smart Sport HD
+http://rb-group-server.com:25461/hanen2/hanen2/5264
+#EXTINF:-1,TR SPOR:SMART SPOR HD
+http://bizimip.com:8000/igs/igs/469
+#EXTINF:-1,TR: SMARTSPOR HD
+http://tezkom.ksbox.life:8080/kursad1/kursad1/18048
+#EXTINF:-1,TR: SMART SPOR SD
+http://nexa.dyndns.ws:8000/mustafa/23062018/32410
+#EXTINF:-1,TR: SMART SPOR HD
+http://nexa.dyndns.ws:8000/mustafa/23062018/13074
+#EXTINF:-1,Tr- SMART SPOR HD
+http://m-iptv.net:6204/NABIL1/123/15646
+#EXTINF:-1,TR SMARTSPOR HD (1920x1080)
+http://cem1.ddns.net:8000/nevzat1/03112018/8395
+#EXTINF:-1,Tr- SMART SPOR HD
+http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/15646
+#EXTINF:-1,TR: SPORSMART HD
+http://pro.besthd.eu:80/osmanabi/24082018/71
+#EXTINF:-1,TR: SMART SPOR HD
+http://www.sansat.net:25461/peter/peter/25859
+#EXTINF:-1,TR: Smart Spor 1
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/17871
+#EXTINF:-1,|TR| SMART SPOR 1
+http://iptvpro.vision-new.org:8789/kadi/kadi1234/13876
+#EXTINF:0,TR: SPOR SMART SD
+http://avrasyatv.net:2086/yusufakin/13082018/5359
+#EXTINF:0,TR: SPOR SMART HD
+http://avrasyatv.net:2086/yusufakin/13082018/728
+#EXTINF:0,TR: SPOR SMART UHD
+http://avrasyatv.net:2086/yusufakin/13082018/2583
+#EXTINF:0,TR: SPOR SMART (TTNET only)
+http://avrasyatv.net:2086/yusufakin/13082018/5760
+#EXTINF:-1,TR : SMARTSPOR SD
+http://jokeriptv.online:1453/Veysel1/Veysel1/74470
+#EXTINF:-1,HD: SMARTSPOR
+http://dnsdue.xyz:80/Usta/12345/27
