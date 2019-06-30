@@ -1,40 +1,10 @@
 #EXTM3U
-#EXTINF:-1,TİVİBU SPOR HD PLUS
-http://tptv.cz:80/live/aziz4dev/GK0CPnopbs/39550.ts
-#EXTINF:-1,TIVIBU SPOR 1 HD
-http://tptv.cz:80/live/aziz4dev/GK0CPnopbs/39549.ts
-#EXTINF:-1,TIVIBU SPOR 2 HD
-http://tptv.cz:80/live/aziz4dev/GK0CPnopbs/39548.ts
-#EXTINF:-1,TIVIBU SPOR 3 HD
-http://tptv.cz:80/live/aziz4dev/GK0CPnopbs/39547.ts
-#EXTINF:-1,TIVIBU SPOR 4 HD
-http://tptv.cz:80/live/aziz4dev/GK0CPnopbs/39546.ts
 #EXTINF:-1,TiViBUSPOR 1 HD
 http://edr.akiptv.biz:8000/live/1155/1108.be/8393.ts
 #EXTINF:-1,TiViBUSPOR 2 HD
 http://edr.akiptv.biz:8000/live/1155/1108.be/8392.ts
 #EXTINF:-1,TiViBUSPOR 3 HD
 http://edr.akiptv.biz:8000/live/1155/1108.be/8391.ts
-#EXTINF:-1,TR: TiViBUSPOR 1 HD (1920x1080)
-http://istnbl1453.com:8080/live/gurdal/huseyin/15436.ts
-#EXTINF:-1,TR: TIVIBUSPOR 1 HQ
-http://istnbl1453.com:8080/live/gurdal/huseyin/15435.ts
-#EXTINF:-1,TIVIBU SPOR 1 HD
-http://istnbl1453.com:8080/live/gurdal/huseyin/4131.ts
-#EXTINF:-1,TR: TiViBUSPOR 2 HD (1920x1080)
-http://istnbl1453.com:8080/live/gurdal/huseyin/15438.ts
-#EXTINF:-1,TR: TIVIBUSPOR 2 HQ
-http://istnbl1453.com:8080/live/gurdal/huseyin/15437.ts
-#EXTINF:-1,TIVIBU 2 SD
-http://istnbl1453.com:8080/live/gurdal/huseyin/10747.ts
-#EXTINF:-1,TIVIBU SPOR 2 HD
-http://istnbl1453.com:8080/live/gurdal/huseyin/4130.ts
-#EXTINF:-1,TR: TiViBUSPOR 3 HD (1920x1080)
-http://istnbl1453.com:8080/live/gurdal/huseyin/15439.ts
-#EXTINF:-1,TIVIBU SPOR 3 HD
-http://istnbl1453.com:8080/live/gurdal/huseyin/4129.ts
-#EXTINF:-1,TIVIBU SPOR 4 HD
-http://istnbl1453.com:8080/live/gurdal/huseyin/4128.ts
 #EXTINF:-1,TR:TIVIBU SPOR 1 HD
 http://portal.germanyservers.de:8000/live/erkanyilmaz/29102018/5975.ts
 #EXTINF:-1,TR:TIVIBU SPOR 1 SD
@@ -47,32 +17,38 @@ http://portal.germanyservers.de:8000/live/erkanyilmaz/29102018/5970.ts
 http://portal.germanyservers.de:8000/live/erkanyilmaz/29102018/5973.ts
 #EXTINF:-1,TR:TIVIBU SPOR 3 SD
 http://portal.germanyservers.de:8000/live/erkanyilmaz/29102018/5969.ts
-#EXTINF:-1,(TR) TivibuSpor 1
-http://www.nilsattv.com:8080/bedri/gungor/484
-#EXTINF:-1,(TR) TivibuSpor 2
-http://www.nilsattv.com:8080/bedri/gungor/485
-#EXTINF:-1,(TR) TivibuSpor 3
-http://www.nilsattv.com:8080/bedri/gungor/2197
-#EXTINF:-1,(TR) TivibuSpor 4
-http://www.nilsattv.com:8080/bedri/gungor/2198
-#EXTINF:-1,TR: TIVIBUSPOR 1 SD
-http://nexa.dyndns.ws:8000/mustafa/23062018/32406
-#EXTINF:-1,TR: TIVIBUSPOR 1 HD
-http://nexa.dyndns.ws:8000/mustafa/23062018/3237
-#EXTINF:-1,TR: TIVIBUSPOR 2 SD
-http://nexa.dyndns.ws:8000/mustafa/23062018/40652
-#EXTINF:-1,TR: TIVIBUSPOR 2 HD
-http://nexa.dyndns.ws:8000/mustafa/23062018/40653
-#EXTINF:-1,TR: TIVIBUSPOR 3 SD
-http://nexa.dyndns.ws:8000/mustafa/23062018/32408
-#EXTINF:-1,TR: TIVIBUSPOR 3 HD
-http://nexa.dyndns.ws:8000/mustafa/23062018/3239
-#EXTINF:-1,Tivibu Spor 1 Hd
-http://force102.com:8080/live/abdurrahman/24122018/179.ts
-#EXTINF:-1,Tivibu Spor 2 Hd
-http://force102.com:8080/live/abdurrahman/24122018/180.ts
-#EXTINF:-1,Tivibu Spor 3 Hd
-http://force102.com:8080/live/abdurrahman/24122018/181.ts
+#EXTINF:-1,TR: TiViBU SPOR HD
+http://avrasyatv.net:2086/kemalkoycu/28082018/661
+#EXTINF:-1,TR: TiViBU SPOR 2 HD
+http://avrasyatv.net:2086/kemalkoycu/28082018/2916
+#EXTINF:-1,TR: TiViBU SPOR 2 UHD
+http://avrasyatv.net:2086/kemalkoycu/28082018/2915
+#EXTINF:-1,TR: TiViBU SPOR 2*
+http://avrasyatv.net:2086/kemalkoycu/28082018/730
+#EXTINF:-1,TR: TiViBU SPOR 3
+http://avrasyatv.net:2086/kemalkoycu/28082018/1117
+#EXTINF:-1,TR: TiViBU SPOR 4
+http://avrasyatv.net:2086/kemalkoycu/28082018/2860
+#EXTINF:-1,TR: TiViBU SPOR HD
+http://avrasyatv.net:2086/birolcoban/27082018/661
+#EXTINF:-1,TR: TiViBU SPOR 2 HD
+http://avrasyatv.net:2086/birolcoban/27082018/2916
+#EXTINF:-1,TR: TiViBU SPOR 2 UHD
+http://avrasyatv.net:2086/birolcoban/27082018/2915
+#EXTINF:-1,TR: TiViBU SPOR 2*
+http://avrasyatv.net:2086/birolcoban/27082018/730
+#EXTINF:-1,TR: TiViBU SPOR 3
+http://avrasyatv.net:2086/birolcoban/27082018/1117
+#EXTINF:-1,TR: TiViBU SPOR 4
+http://avrasyatv.net:2086/birolcoban/27082018/2860
+#EXTINF:-1,TR VIP TIVIBUSPOR1
+http://nefesiptv.com:8080/live/cavitarslan/12072018/477.ts
+#EXTINF:-1,TR VIP TIVIBUSPOR2
+http://nefesiptv.com:8080/live/cavitarslan/12072018/478.ts
+#EXTINF:-1,TR VIP TIVIBUSPOR3
+http://nefesiptv.com:8080/live/cavitarslan/12072018/2127.ts
+#EXTINF:-1,TR TIVIBUSPOR1
+http://nefesiptv.com:8080/live/cavitarslan/12072018/30864.ts
 #EXTINF:-1,TiViBUSPOR 1 HD
 http://cem1.ddns.net:8000/umut/umut123/8393
 #EXTINF:-1,TiViBUSPOR 2 HD
@@ -97,65 +73,3 @@ http://edr.akiptv.biz:8000/live/7867/2010.atik/8393.ts
 http://edr.akiptv.biz:8000/live/7867/2010.atik/8392.ts
 #EXTINF:-1,TiViBUSPOR 3 HD
 http://edr.akiptv.biz:8000/live/7867/2010.atik/8391.ts
-#EXTINF:-1,TR: TiViBU SPOR HD
-http://avrasyatv.net:2086/enverkose/25082018/661
-#EXTINF:-1,TR: TiViBU SPOR 2 HD
-http://avrasyatv.net:2086/enverkose/25082018/2916
-#EXTINF:-1,TR: TiViBU SPOR 2 UHD
-http://avrasyatv.net:2086/enverkose/25082018/2915
-#EXTINF:-1,TR: TiViBU SPOR 2*
-http://avrasyatv.net:2086/enverkose/25082018/730
-#EXTINF:-1,TR: TiViBU SPOR 3
-http://avrasyatv.net:2086/enverkose/25082018/1117
-#EXTINF:-1,TR: TiViBU SPOR 4
-http://avrasyatv.net:2086/enverkose/25082018/2860
-#EXTINF:-1,TR: TiViBU SPOR HD
-http://avrasyatv.net:2086/kemalkoycu/28082018/661
-#EXTINF:-1,TR: TiViBU SPOR 2 HD
-http://avrasyatv.net:2086/kemalkoycu/28082018/2916
-#EXTINF:-1,TR: TiViBU SPOR 2 UHD
-http://avrasyatv.net:2086/kemalkoycu/28082018/2915
-#EXTINF:-1,TR: TiViBU SPOR 2*
-http://avrasyatv.net:2086/kemalkoycu/28082018/730
-#EXTINF:-1,TR: TiViBU SPOR 3
-http://avrasyatv.net:2086/kemalkoycu/28082018/1117
-#EXTINF:-1,TR: TiViBU SPOR 4
-http://avrasyatv.net:2086/kemalkoycu/28082018/2860
-#EXTINF:-1,TR: TiViBU SPOR HD
-http://avrasyatv.net:2086/bayramdonmez/29082018/661
-#EXTINF:-1,TR: TiViBU SPOR 2 HD
-http://avrasyatv.net:2086/bayramdonmez/29082018/2916
-#EXTINF:-1,TR: TiViBU SPOR 2 UHD
-http://avrasyatv.net:2086/bayramdonmez/29082018/2915
-#EXTINF:-1,TR: TiViBU SPOR 2*
-http://avrasyatv.net:2086/bayramdonmez/29082018/730
-#EXTINF:-1,TR: TiViBU SPOR 3
-http://avrasyatv.net:2086/bayramdonmez/29082018/1117
-#EXTINF:-1,TR: TiViBU SPOR 4
-http://avrasyatv.net:2086/bayramdonmez/29082018/2860
-#EXTINF:-1,TR: TiViBU SPOR HD
-http://avrasyatv.net:2086/birolcoban/27082018/661
-#EXTINF:-1,TR: TiViBU SPOR 2 HD
-http://avrasyatv.net:2086/birolcoban/27082018/2916
-#EXTINF:-1,TR: TiViBU SPOR 2 UHD
-http://avrasyatv.net:2086/birolcoban/27082018/2915
-#EXTINF:-1,TR: TiViBU SPOR 2*
-http://avrasyatv.net:2086/birolcoban/27082018/730
-#EXTINF:-1,TR: TiViBU SPOR 3
-http://avrasyatv.net:2086/birolcoban/27082018/1117
-#EXTINF:-1,TR: TiViBU SPOR 4
-http://avrasyatv.net:2086/birolcoban/27082018/2860
-#EXTINF:-1,TR VIP TIVIBUSPOR1
-http://nefesiptv.com:8080/live/cavitarslan/12072018/477.ts
-#EXTINF:-1,TR VIP TIVIBUSPOR2
-http://nefesiptv.com:8080/live/cavitarslan/12072018/478.ts
-#EXTINF:-1,TR VIP TIVIBUSPOR3
-http://nefesiptv.com:8080/live/cavitarslan/12072018/2127.ts
-#EXTINF:-1,TR TIVIBUSPOR1
-http://nefesiptv.com:8080/live/cavitarslan/12072018/30864.ts
-#EXTINF:-1,TiViBUSPOR 1 HD
-http://edr.akiptv.biz:8000/mabiark4/tribun/8393
-#EXTINF:-1,TiViBUSPOR 2 HD
-http://edr.akiptv.biz:8000/mabiark4/tribun/8392
-#EXTINF:-1,TiViBUSPOR 3 HD
-http://edr.akiptv.biz:8000/mabiark4/tribun/8391
