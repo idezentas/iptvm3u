@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="Ulusal" ,TRT 1 HD BluTV
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="Ulusal" ,TRT 1 trtizle
@@ -995,3 +995,1002 @@ http://dtv21.org:2082/said1_761428/uG044KhdzY/12372
 http://dtv21.org:2082/said1_761428/uG044KhdzY/12371
 #EXTINF:-1 group-title="dtv21" ,|TR| MOVİESMART PREMİUM HD+
 http://dtv21.org:2082/said1_761428/uG044KhdzY/12370
+#EXTINF:-1 group-title="Haber" ,NTV HD
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="gladio" ,TR: TRT 1 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403888
+#EXTINF:-1 group-title="gladio" ,TR: TRT 1 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403889
+#EXTINF:-1 group-title="gladio" ,TR: ATV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403890
+#EXTINF:-1 group-title="gladio" ,TR: ATV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403891
+#EXTINF:-1 group-title="gladio" ,TR: KANAL D HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403892
+#EXTINF:-1 group-title="gladio" ,TR: KANAL D HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403893
+#EXTINF:-1 group-title="gladio" ,TR: STAR TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403894
+#EXTINF:-1 group-title="gladio" ,TR: STAR TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403895
+#EXTINF:-1 group-title="gladio" ,TR: SHOW TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403896
+#EXTINF:-1 group-title="gladio" ,TR: SHOW TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403897
+#EXTINF:-1 group-title="gladio" ,TR: TV 8 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403898
+#EXTINF:-1 group-title="gladio" ,TR: TV 8 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403899
+#EXTINF:-1 group-title="gladio" ,TR: FOX TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403900
+#EXTINF:-1 group-title="gladio" ,TR: FOX TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403901
+#EXTINF:-1 group-title="gladio" ,TR: A HABER HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403902
+#EXTINF:-1 group-title="gladio" ,TR: A NEWS HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403903
+#EXTINF:-1 group-title="gladio" ,TR: A NEWS HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403904
+#EXTINF:-1 group-title="gladio" ,TR: A PARA HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403905
+#EXTINF:-1 group-title="gladio" ,TR: A PARA HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403906
+#EXTINF:-1 group-title="gladio" ,TR: ADANA TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403907
+#EXTINF:-1 group-title="gladio" ,TR: A2 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403908
+#EXTINF:-1 group-title="gladio" ,TR: A2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403909
+#EXTINF:-1 group-title="gladio" ,TR: 360 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403910
+#EXTINF:-1 group-title="gladio" ,TR: ATV AVRUPA
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403911
+#EXTINF:-1 group-title="gladio" ,TR: BEYAZ TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403912
+#EXTINF:-1 group-title="gladio" ,TR: BEYAZ TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403913
+#EXTINF:-1 group-title="gladio" ,TR: BLOOMBERG HT
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403914
+#EXTINF:-1 group-title="gladio" ,TR: CNN TURK HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403915
+#EXTINF:-1 group-title="gladio" ,TR: EURO STAR
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403916
+#EXTINF:-1 group-title="gladio" ,TR: HABER GLOBAL
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403917
+#EXTINF:-1 group-title="gladio" ,TR: SEMERKAND HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403918
+#EXTINF:-1 group-title="gladio" ,TR: TRT 4K
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403919
+#EXTINF:-1 group-title="gladio" ,TR: TRT 2 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403920
+#EXTINF:-1 group-title="gladio" ,TR: EURO D
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403921
+#EXTINF:-1 group-title="gladio" ,TR: HALK TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403922
+#EXTINF:-1 group-title="gladio" ,TR: BENGUTURK
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403923
+#EXTINF:-1 group-title="gladio" ,TR: TV 8.5 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403924
+#EXTINF:-1 group-title="gladio" ,TR: TV 8.5 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403925
+#EXTINF:-1 group-title="gladio" ,TR: TV 8.5
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403926
+#EXTINF:-1 group-title="gladio" ,TR: KANAL 7 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403927
+#EXTINF:-1 group-title="gladio" ,TR: KANAL 7 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403928
+#EXTINF:-1 group-title="gladio" ,TR: TEVE 2 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403929
+#EXTINF:-1 group-title="gladio" ,TR: TEVE 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403930
+#EXTINF:-1 group-title="gladio" ,TR: SHOW MAX
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403931
+#EXTINF:-1 group-title="gladio" ,TR: SHOW TURK
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403932
+#EXTINF:-1 group-title="gladio" ,TR: TV 8 INT
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403933
+#EXTINF:-1 group-title="gladio" ,TR: TV NET HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403934
+#EXTINF:-1 group-title="gladio" ,TR: TV 4 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403935
+#EXTINF:-1 group-title="gladio" ,TR: CNN TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403936
+#EXTINF:-1 group-title="gladio" ,TR: GLOBAL HABER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403937
+#EXTINF:-1 group-title="gladio" ,TR: HABER TURK HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403938
+#EXTINF:-1 group-title="gladio" ,TR: HABER TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403939
+#EXTINF:-1 group-title="gladio" ,TR: TELE 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403940
+#EXTINF:-1 group-title="gladio" ,TR: TV100 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403941
+#EXTINF:-1 group-title="gladio" ,TR: ULUSAL KANAL
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403942
+#EXTINF:-1 group-title="gladio" ,TR: KANAL 24 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403943
+#EXTINF:-1 group-title="gladio" ,TR: KRT TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403944
+#EXTINF:-1 group-title="gladio" ,TR: AKIT TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403945
+#EXTINF:-1 group-title="gladio" ,TR: NTV HABER HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403946
+#EXTINF:-1 group-title="gladio" ,TR: NTV HABER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403947
+#EXTINF:-1 group-title="gladio" ,TR: TGRT HABER HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403948
+#EXTINF:-1 group-title="gladio" ,TR: TRT HABER HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403949
+#EXTINF:-1 group-title="gladio" ,TR: TRT HABER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403950
+#EXTINF:-1 group-title="gladio" ,TR: ULKETV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403951
+#EXTINF:-1 group-title="gladio" ,TR: ANTALYA KANAL V
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403952
+#EXTINF:-1 group-title="gladio" ,TR: TV5
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403953
+#EXTINF:-1 group-title="gladio" ,TR: GAZIANTEP GRT TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403954
+#EXTINF:-1 group-title="gladio" ,TR: DIYANET TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403955
+#EXTINF:-1 group-title="gladio" ,TR: GAZIANTEP OLAY TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403956
+#EXTINF:-1 group-title="gladio" ,TR: SIVAS VIZYON 58 TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403957
+#EXTINF:-1 group-title="gladio" ,TR: ADIYAMAN MERCAN TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403958
+#EXTINF:-1 group-title="gladio" ,TR: TRABZON HABER 61 TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403959
+#EXTINF:-1 group-title="gladio" ,TR: AV TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403960
+#EXTINF:-1 group-title="gladio" ,TR: SANLIURFA KANAL URFA
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403961
+#EXTINF:-1 group-title="gladio" ,TR: ANADOLU DERNEK TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403962
+#EXTINF:-1 group-title="gladio" ,TR: DOST TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403963
+#EXTINF:-1 group-title="gladio" ,TR: ARTI TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403964
+#EXTINF:-1 group-title="gladio" ,TR: KON TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403965
+#EXTINF:-1 group-title="gladio" ,TR: FM TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403966
+#EXTINF:-1 group-title="gladio" ,TR: TRT WORLD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403967
+#EXTINF:-1 group-title="gladio" ,TR: TRT AVAZ
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403968
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES ACTION HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403969
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES ACTION 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403970
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES PREMIERE 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403971
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES FAMILY HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403972
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403973
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SERIES COMEDY HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403974
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SERIES DRAMA HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403975
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SERIES SCI-FI HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403976
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SERIES VICE HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403977
+#EXTINF:-1 group-title="gladio" ,TR: DIZI SMART PREMIUM HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403978
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART ACTION HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403979
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART CLASSIC HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403980
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART FAMILY HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403981
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART FEST HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403982
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART PLATIN 2 HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403983
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART PLATIN HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403984
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART PREMIUM 2 HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403985
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART PREMIUM HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403986
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART TURK HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403987
+#EXTINF:-1 group-title="gladio" ,TR: FOX CRIME HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403988
+#EXTINF:-1 group-title="gladio" ,TR: TLC TURKEY
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403989
+#EXTINF:-1 group-title="gladio" ,TR: KEMAL SUNAL TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403990
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX 4K UHD-STAR TREK SONSUZLUK
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403991
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX 3D
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403992
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX BOXSET
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403993
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX  KEMAL SUNAL TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403994
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX WESTERN
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403995
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX STAR WARS
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403996
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX GOLD MIX
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403997
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX YESILCAM
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403998
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX CIZGI FILM
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403999
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX TOM&JERRY
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404000
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KOMEDI 90"LAR
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404001
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX CEM YILMAZ
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404002
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX VIZYON 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404003
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX VIZYON 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404004
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX TURK SINEMA 1- ORGANIZE.ISLER.2005
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404005
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX TURK SINEMA 2-HEDEFIM.SENSIN
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404006
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX TURK SINEMA 3-KAYHAN
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404007
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX AKSIYON 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404008
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX AKSIYON 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404009
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX AKSIYON 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404010
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX ANIMASYON 1-BUZ DEVRI 4 KITALAR AYRILIYOR
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404011
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX ANIMASYON 2-SIHIRLI FASULYE
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404012
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX BELGESEL-BLUE.PLANET.II
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404013
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX BILIMKURGU 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404014
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX BILIMKURGU 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404015
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX PREMIERE-CHILD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404016
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX DRAMA 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404017
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX DRAMA 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404018
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KOMEDI 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404019
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KOMEDI 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404020
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KOMEDI 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404021
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KORKU 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404022
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KORKU 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404023
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KORKU 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404024
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404025
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404026
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404027
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 4
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404028
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 5
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404029
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 6
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404030
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404031
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 10
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404032
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 19
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404033
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS 1 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404035
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404036
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS 3 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404037
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS 4 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404038
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS MAX 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404039
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS MAX 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404040
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS HABER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404041
+#EXTINF:-1 group-title="gladio" ,TR: SARAN SPORTS
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404042
+#EXTINF:-1 group-title="gladio" ,TR: SPOR SMART HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404043
+#EXTINF:-1 group-title="gladio" ,TR: SPORTS TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404044
+#EXTINF:-1 group-title="gladio" ,TR: TIVIBU SPOR 1 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404045
+#EXTINF:-1 group-title="gladio" ,TR: TIVIBU SPOR 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404046
+#EXTINF:-1 group-title="gladio" ,TR: TIVIBU SPOR 3 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404047
+#EXTINF:-1 group-title="gladio" ,TR: A SPOR
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404048
+#EXTINF:-1 group-title="gladio" ,TR: TRT SPOR 2 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404049
+#EXTINF:-1 group-title="gladio" ,TR: NILOYA HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404050
+#EXTINF:-1 group-title="gladio" ,TR: BABY TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404051
+#EXTINF:-1 group-title="gladio" ,TR: BOOMERANG HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404052
+#EXTINF:-1 group-title="gladio" ,TR: CARTOON NETWORK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404053
+#EXTINF:-1 group-title="gladio" ,TR: DA VINCÄ° KIDS HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404054
+#EXTINF:-1 group-title="gladio" ,TR: DISNEY CHANNEL HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404055
+#EXTINF:-1 group-title="gladio" ,TR: DISNEY JR HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404056
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO TV NILOYA
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404057
+#EXTINF:-1 group-title="gladio" ,TR: KUKULI TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404058
+#EXTINF:-1 group-title="gladio" ,TR: MINIKA COCUK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404059
+#EXTINF:-1 group-title="gladio" ,TR: MINIKA GO
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404060
+#EXTINF:-1 group-title="gladio" ,TR: NICK JR HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404061
+#EXTINF:-1 group-title="gladio" ,TR: NICKELODEON HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404062
+#EXTINF:-1 group-title="gladio" ,TR: TRT COCUK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404063
+#EXTINF:-1 group-title="gladio" ,TR: DISNEY XD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404064
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV AKILLI TAVSAN MOMO
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404065
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV BOOBA TV ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404066
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV CANIM KARDESIM ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404067
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV EGE ILE GAGA
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404068
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV ELIFIN DUSLERI
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404069
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV HAPSUU
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404070
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV KARE
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404071
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV KONUSAN TOM ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404072
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV KRAL SAKIR ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404073
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV KUKULI
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404074
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV MASA ILE KOCA AYI ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404075
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV NETFLIX ANIMASYON ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404076
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV NILOYA ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404077
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV PEPE TV ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404078
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV SIRINLER ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404079
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV TOM VE JERRY ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404080
+#EXTINF:-1 group-title="gladio" ,TR: TLC TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404081
+#EXTINF:-1 group-title="gladio" ,TR: ANIMAL PLANET HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404082
+#EXTINF:-1 group-title="gladio" ,TR: 24 KITCHEN HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404083
+#EXTINF:-1 group-title="gladio" ,TR: BBC EARTH HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404084
+#EXTINF:-1 group-title="gladio" ,TR: BEIN GURME HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404085
+#EXTINF:-1 group-title="gladio" ,TR: BEIN IZ
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404086
+#EXTINF:-1 group-title="gladio" ,TR: DISCOVERY IDX HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404087
+#EXTINF:-1 group-title="gladio" ,TR: DISCOVERY CHANNEL HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404088
+#EXTINF:-1 group-title="gladio" ,TR: DISCOVERY SCIENCE HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404089
+#EXTINF:-1 group-title="gladio" ,TR: DMAX HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404090
+#EXTINF:-1 group-title="gladio" ,TR: NATIONAL GEOGRAPHIC
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404091
+#EXTINF:-1 group-title="gladio" ,TR: NAT GEO WILD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404092
+#EXTINF:-1 group-title="gladio" ,TR: NATIONAL GEO PEOPLE HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404093
+#EXTINF:-1 group-title="gladio" ,TR: TRT BELGESEL HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404094
+#EXTINF:-1 group-title="gladio" ,TR: VIASAT HISTORY HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404095
+#EXTINF:-1 group-title="gladio" ,TR: YABAN TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404096
+#EXTINF:-1 group-title="gladio" ,TR: HISTORY HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404097
+#EXTINF:-1 group-title="gladio" ,TR: DREAM TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404098
+#EXTINF:-1 group-title="gladio" ,TR: DREAM TURK
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404099
+#EXTINF:-1 group-title="gladio" ,TR: NR1 TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404100
+#EXTINF:-1 group-title="gladio" ,TR: NR1 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404101
+#EXTINF:-1 group-title="gladio" ,TR: KRAL POP HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404102
+#EXTINF:-1 group-title="gladio" ,TR: KRAL TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404103
+#EXTINF:-1 group-title="gladio" ,TR: POWER TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404104
+#EXTINF:-1 group-title="gladio" ,TR: POWER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404105
+#EXTINF:-1 group-title="gladio" ,TR: TMB TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404106
+#EXTINF:-1 group-title="gladio" ,TR: TRT MUZIK HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404107TR: TRT 1 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403888
+#EXTINF:-1 group-title="gladio" ,TR: TRT 1 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403889
+#EXTINF:-1 group-title="gladio" ,TR: ATV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403890
+#EXTINF:-1 group-title="gladio" ,TR: ATV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403891
+#EXTINF:-1 group-title="gladio" ,TR: KANAL D HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403892
+#EXTINF:-1 group-title="gladio" ,TR: KANAL D HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403893
+#EXTINF:-1 group-title="gladio" ,TR: STAR TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403894
+#EXTINF:-1 group-title="gladio" ,TR: STAR TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403895
+#EXTINF:-1 group-title="gladio" ,TR: SHOW TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403896
+#EXTINF:-1 group-title="gladio" ,TR: SHOW TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403897
+#EXTINF:-1 group-title="gladio" ,TR: TV 8 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403898
+#EXTINF:-1 group-title="gladio" ,TR: TV 8 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403899
+#EXTINF:-1 group-title="gladio" ,TR: FOX TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403900
+#EXTINF:-1 group-title="gladio" ,TR: FOX TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403901
+#EXTINF:-1 group-title="gladio" ,TR: A HABER HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403902
+#EXTINF:-1 group-title="gladio" ,TR: A NEWS HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403903
+#EXTINF:-1 group-title="gladio" ,TR: A NEWS HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403904
+#EXTINF:-1 group-title="gladio" ,TR: A PARA HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403905
+#EXTINF:-1 group-title="gladio" ,TR: A PARA HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403906
+#EXTINF:-1 group-title="gladio" ,TR: ADANA TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403907
+#EXTINF:-1 group-title="gladio" ,TR: A2 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403908
+#EXTINF:-1 group-title="gladio" ,TR: A2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403909
+#EXTINF:-1 group-title="gladio" ,TR: 360 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403910
+#EXTINF:-1 group-title="gladio" ,TR: ATV AVRUPA
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403911
+#EXTINF:-1 group-title="gladio" ,TR: BEYAZ TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403912
+#EXTINF:-1 group-title="gladio" ,TR: BEYAZ TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403913
+#EXTINF:-1 group-title="gladio" ,TR: BLOOMBERG HT
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403914
+#EXTINF:-1 group-title="gladio" ,TR: CNN TURK HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403915
+#EXTINF:-1 group-title="gladio" ,TR: EURO STAR
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403916
+#EXTINF:-1 group-title="gladio" ,TR: HABER GLOBAL
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403917
+#EXTINF:-1 group-title="gladio" ,TR: SEMERKAND HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403918
+#EXTINF:-1 group-title="gladio" ,TR: TRT 4K
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403919
+#EXTINF:-1 group-title="gladio" ,TR: TRT 2 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403920
+#EXTINF:-1 group-title="gladio" ,TR: EURO D
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403921
+#EXTINF:-1 group-title="gladio" ,TR: HALK TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403922
+#EXTINF:-1 group-title="gladio" ,TR: BENGUTURK
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403923
+#EXTINF:-1 group-title="gladio" ,TR: TV 8.5 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403924
+#EXTINF:-1 group-title="gladio" ,TR: TV 8.5 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403925
+#EXTINF:-1 group-title="gladio" ,TR: TV 8.5
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403926
+#EXTINF:-1 group-title="gladio" ,TR: KANAL 7 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403927
+#EXTINF:-1 group-title="gladio" ,TR: KANAL 7 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403928
+#EXTINF:-1 group-title="gladio" ,TR: TEVE 2 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403929
+#EXTINF:-1 group-title="gladio" ,TR: TEVE 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403930
+#EXTINF:-1 group-title="gladio" ,TR: SHOW MAX
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403931
+#EXTINF:-1 group-title="gladio" ,TR: SHOW TURK
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403932
+#EXTINF:-1 group-title="gladio" ,TR: TV 8 INT
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403933
+#EXTINF:-1 group-title="gladio" ,TR: TV NET HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403934
+#EXTINF:-1 group-title="gladio" ,TR: TV 4 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403935
+#EXTINF:-1 group-title="gladio" ,TR: CNN TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403936
+#EXTINF:-1 group-title="gladio" ,TR: GLOBAL HABER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403937
+#EXTINF:-1 group-title="gladio" ,TR: HABER TURK HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403938
+#EXTINF:-1 group-title="gladio" ,TR: HABER TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403939
+#EXTINF:-1 group-title="gladio" ,TR: TELE 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403940
+#EXTINF:-1 group-title="gladio" ,TR: TV100 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403941
+#EXTINF:-1 group-title="gladio" ,TR: ULUSAL KANAL
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403942
+#EXTINF:-1 group-title="gladio" ,TR: KANAL 24 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403943
+#EXTINF:-1 group-title="gladio" ,TR: KRT TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403944
+#EXTINF:-1 group-title="gladio" ,TR: AKIT TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403945
+#EXTINF:-1 group-title="gladio" ,TR: NTV HABER HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403946
+#EXTINF:-1 group-title="gladio" ,TR: NTV HABER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403947
+#EXTINF:-1 group-title="gladio" ,TR: TGRT HABER HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403948
+#EXTINF:-1 group-title="gladio" ,TR: TRT HABER HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403949
+#EXTINF:-1 group-title="gladio" ,TR: TRT HABER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403950
+#EXTINF:-1 group-title="gladio" ,TR: ULKETV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403951
+#EXTINF:-1 group-title="gladio" ,TR: ANTALYA KANAL V
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403952
+#EXTINF:-1 group-title="gladio" ,TR: TV5
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403953
+#EXTINF:-1 group-title="gladio" ,TR: GAZIANTEP GRT TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403954
+#EXTINF:-1 group-title="gladio" ,TR: DIYANET TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403955
+#EXTINF:-1 group-title="gladio" ,TR: GAZIANTEP OLAY TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403956
+#EXTINF:-1 group-title="gladio" ,TR: SIVAS VIZYON 58 TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403957
+#EXTINF:-1 group-title="gladio" ,TR: ADIYAMAN MERCAN TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403958
+#EXTINF:-1 group-title="gladio" ,TR: TRABZON HABER 61 TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403959
+#EXTINF:-1 group-title="gladio" ,TR: AV TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403960
+#EXTINF:-1 group-title="gladio" ,TR: SANLIURFA KANAL URFA
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403961
+#EXTINF:-1 group-title="gladio" ,TR: ANADOLU DERNEK TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403962
+#EXTINF:-1 group-title="gladio" ,TR: DOST TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403963
+#EXTINF:-1 group-title="gladio" ,TR: ARTI TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403964
+#EXTINF:-1 group-title="gladio" ,TR: KON TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403965
+#EXTINF:-1 group-title="gladio" ,TR: FM TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403966
+#EXTINF:-1 group-title="gladio" ,TR: TRT WORLD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403967
+#EXTINF:-1 group-title="gladio" ,TR: TRT AVAZ
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403968
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES ACTION HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403969
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES ACTION 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403970
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES PREMIERE 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403971
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES FAMILY HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403972
+#EXTINF:-1 group-title="gladio" ,TR: BEIN MOVIES TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403973
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SERIES COMEDY HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403974
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SERIES DRAMA HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403975
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SERIES SCI-FI HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403976
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SERIES VICE HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403977
+#EXTINF:-1 group-title="gladio" ,TR: DIZI SMART PREMIUM HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403978
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART ACTION HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403979
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART CLASSIC HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403980
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART FAMILY HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403981
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART FEST HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403982
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART PLATIN 2 HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403983
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART PLATIN HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403984
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART PREMIUM 2 HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403985
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART PREMIUM HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403986
+#EXTINF:-1 group-title="gladio" ,TR: MOVIE SMART TURK HD (LIVE)
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403987
+#EXTINF:-1 group-title="gladio" ,TR: FOX CRIME HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403988
+#EXTINF:-1 group-title="gladio" ,TR: TLC TURKEY
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403989
+#EXTINF:-1 group-title="gladio" ,TR: KEMAL SUNAL TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403990
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX 4K UHD-STAR TREK SONSUZLUK
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403991
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX 3D
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403992
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX BOXSET
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403993
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX  KEMAL SUNAL TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403994
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX WESTERN
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403995
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX STAR WARS
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403996
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX GOLD MIX
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403997
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX YESILCAM
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403998
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX CIZGI FILM
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403999
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX TOM&JERRY
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404000
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KOMEDI 90"LAR
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404001
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX CEM YILMAZ
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404002
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX VIZYON 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404003
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX VIZYON 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404004
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX TURK SINEMA 1- ORGANIZE.ISLER.2005
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404005
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX TURK SINEMA 2-HEDEFIM.SENSIN
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404006
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX TURK SINEMA 3-KAYHAN
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404007
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX AKSIYON 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404008
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX AKSIYON 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404009
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX AKSIYON 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404010
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX ANIMASYON 1-BUZ DEVRI 4 KITALAR AYRILIYOR
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404011
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX ANIMASYON 2-SIHIRLI FASULYE
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404012
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX BELGESEL-BLUE.PLANET.II
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404013
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX BILIMKURGU 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404014
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX BILIMKURGU 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404015
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX PREMIERE-CHILD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404016
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX DRAMA 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404017
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX DRAMA 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404018
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KOMEDI 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404019
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KOMEDI 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404020
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KOMEDI 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404021
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KORKU 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404022
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KORKU 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404023
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX KORKU 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404024
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404025
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404026
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 3
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404027
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 4
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404028
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 5
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404029
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 6
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404030
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404031
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 10
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404032
+#EXTINF:-1 group-title="gladio" ,TR: REDBOX MIX 19
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404033
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS 1 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404035
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404036
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS 3 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404037
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS 4 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404038
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS MAX 1
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404039
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS MAX 2
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404040
+#EXTINF:-1 group-title="gladio" ,TR: BEIN SPORTS HABER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404041
+#EXTINF:-1 group-title="gladio" ,TR: SARAN SPORTS
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404042
+#EXTINF:-1 group-title="gladio" ,TR: SPOR SMART HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404043
+#EXTINF:-1 group-title="gladio" ,TR: SPORTS TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404044
+#EXTINF:-1 group-title="gladio" ,TR: TIVIBU SPOR 1 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404045
+#EXTINF:-1 group-title="gladio" ,TR: TIVIBU SPOR 2 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404046
+#EXTINF:-1 group-title="gladio" ,TR: TIVIBU SPOR 3 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404047
+#EXTINF:-1 group-title="gladio" ,TR: A SPOR
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404048
+#EXTINF:-1 group-title="gladio" ,TR: TRT SPOR 2 HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404049
+#EXTINF:-1 group-title="gladio" ,TR: NILOYA HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404050
+#EXTINF:-1 group-title="gladio" ,TR: BABY TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404051
+#EXTINF:-1 group-title="gladio" ,TR: BOOMERANG HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404052
+#EXTINF:-1 group-title="gladio" ,TR: CARTOON NETWORK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404053
+#EXTINF:-1 group-title="gladio" ,TR: DA VINCÄ° KIDS HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404054
+#EXTINF:-1 group-title="gladio" ,TR: DISNEY CHANNEL HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404055
+#EXTINF:-1 group-title="gladio" ,TR: DISNEY JR HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404056
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO TV NILOYA
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404057
+#EXTINF:-1 group-title="gladio" ,TR: KUKULI TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404058
+#EXTINF:-1 group-title="gladio" ,TR: MINIKA COCUK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404059
+#EXTINF:-1 group-title="gladio" ,TR: MINIKA GO
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404060
+#EXTINF:-1 group-title="gladio" ,TR: NICK JR HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404061
+#EXTINF:-1 group-title="gladio" ,TR: NICKELODEON HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404062
+#EXTINF:-1 group-title="gladio" ,TR: TRT COCUK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404063
+#EXTINF:-1 group-title="gladio" ,TR: DISNEY XD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404064
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV AKILLI TAVSAN MOMO
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404065
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV BOOBA TV ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404066
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV CANIM KARDESIM ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404067
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV EGE ILE GAGA
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404068
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV ELIFIN DUSLERI
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404069
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV HAPSUU
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404070
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV KARE
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404071
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV KONUSAN TOM ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404072
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV KRAL SAKIR ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404073
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV KUKULI
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404074
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV MASA ILE KOCA AYI ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404075
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV NETFLIX ANIMASYON ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404076
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV NILOYA ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404077
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV PEPE TV ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404078
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV SIRINLER ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404079
+#EXTINF:-1 group-title="gladio" ,TR: GLADIO IPTV TOM VE JERRY ON7
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404080
+#EXTINF:-1 group-title="gladio" ,TR: TLC TV HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404081
+#EXTINF:-1 group-title="gladio" ,TR: ANIMAL PLANET HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404082
+#EXTINF:-1 group-title="gladio" ,TR: 24 KITCHEN HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404083
+#EXTINF:-1 group-title="gladio" ,TR: BBC EARTH HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404084
+#EXTINF:-1 group-title="gladio" ,TR: BEIN GURME HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404085
+#EXTINF:-1 group-title="gladio" ,TR: BEIN IZ
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404086
+#EXTINF:-1 group-title="gladio" ,TR: DISCOVERY IDX HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404087
+#EXTINF:-1 group-title="gladio" ,TR: DISCOVERY CHANNEL HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404088
+#EXTINF:-1 group-title="gladio" ,TR: DISCOVERY SCIENCE HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404089
+#EXTINF:-1 group-title="gladio" ,TR: DMAX HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404090
+#EXTINF:-1 group-title="gladio" ,TR: NATIONAL GEOGRAPHIC
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404091
+#EXTINF:-1 group-title="gladio" ,TR: NAT GEO WILD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404092
+#EXTINF:-1 group-title="gladio" ,TR: NATIONAL GEO PEOPLE HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404093
+#EXTINF:-1 group-title="gladio" ,TR: TRT BELGESEL HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404094
+#EXTINF:-1 group-title="gladio" ,TR: VIASAT HISTORY HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404095
+#EXTINF:-1 group-title="gladio" ,TR: YABAN TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404096
+#EXTINF:-1 group-title="gladio" ,TR: HISTORY HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404097
+#EXTINF:-1 group-title="gladio" ,TR: DREAM TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404098
+#EXTINF:-1 group-title="gladio" ,TR: DREAM TURK
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404099
+#EXTINF:-1 group-title="gladio" ,TR: NR1 TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404100
+#EXTINF:-1 group-title="gladio" ,TR: NR1 HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404101
+#EXTINF:-1 group-title="gladio" ,TR: KRAL POP HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404102
+#EXTINF:-1 group-title="gladio" ,TR: KRAL TV HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404103
+#EXTINF:-1 group-title="gladio" ,TR: POWER TURK HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404104
+#EXTINF:-1 group-title="gladio" ,TR: POWER HD
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404105
+#EXTINF:-1 group-title="gladio" ,TR: TMB TV
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404106
+#EXTINF:-1 group-title="gladio" ,TR: TRT MUZIK HD+
+http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/404107
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT 1 [4K Transcoded]
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3625
+#EXTINF:-1 group-title="fastiptv" ,TR: Trt 2
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/4905
+#EXTINF:-1 group-title="fastiptv" ,TR: Trt Haber
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/4906
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT MUZIK HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/4910
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT BELGESEL HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/4909
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT WORLD HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/4908
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT HABER HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/4907
+#EXTINF:-1 group-title="fastiptv" ,TR: ATV
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/539
+#EXTINF:-1 group-title="fastiptv" ,TR: ATV [4K Transcoded]
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3624
+#EXTINF:-1 group-title="fastiptv" ,TR: KANAL D [4K Transcoded]
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3623
+#EXTINF:-1 group-title="fastiptv" ,TR: FOX TV [4K Transcoded]
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3622
+#EXTINF:-1 group-title="fastiptv" ,TR: TV 8 [4K Transcoded]
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3621
+#EXTINF:-1 group-title="fastiptv" ,TR: KANAL 7 [4K Transcoded]
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3620
+#EXTINF:-1 group-title="fastiptv" ,TR: A2 [4K Transcoded]
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3619
+#EXTINF:-1 group-title="fastiptv" ,TR: Show TV
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/177
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT MUZIK
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/466
+#EXTINF:-1 group-title="fastiptv" ,TR:  Star TV
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/178
+#EXTINF:-1 group-title="fastiptv" ,TR: Canal D
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/103
+#EXTINF:-1 group-title="fastiptv" ,TR: Kral TV
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/179
+#EXTINF:-1 group-title="fastiptv" ,TR: Star HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/335
+#EXTINF:-1 group-title="fastiptv" ,TR: Kanal 7
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/912
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT Turk
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/104
+#EXTINF:-1 group-title="fastiptv" ,TR: A Haber FHD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3139
+#EXTINF:-1 group-title="fastiptv" ,TR: A NEWS FHD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3140
+#EXTINF:-1 group-title="fastiptv" ,TR: A PARA FHD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3141
+#EXTINF:-1 group-title="fastiptv" ,TR: A Sport FHD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3142
+#EXTINF:-1 group-title="fastiptv" ,TR: A-STAR GOLD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3147
+#EXTINF:-1 group-title="fastiptv" ,TR: A-STAR KOMEDI
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3148
+#EXTINF:-1 group-title="fastiptv" ,TR: A-STAR KORKU
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3149
+#EXTINF:-1 group-title="fastiptv" ,TR: A-STAR MACERA
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3150
+#EXTINF:-1 group-title="fastiptv" ,TR: A-STAR OSCAR
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3151
+#EXTINF:-1 group-title="fastiptv" ,TR: A-STAR TURK
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3152
+#EXTINF:-1 group-title="fastiptv" ,TR: A-STAR TURK 2
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3153
+#EXTINF:-1 group-title="fastiptv" ,TR: Kanal Avrupa
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/1639
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT COCUK
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/469
+#EXTINF:-1 group-title="fastiptv" ,TR: NTV HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/1641
+#EXTINF:-1 group-title="fastiptv" ,TR: NBA TV HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3377
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT SPOR 2
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3376
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT SPOR HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/1642
+#EXTINF:-1 group-title="fastiptv" ,TR: beIN Sports MAX 1
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/106
+#EXTINF:-1 group-title="fastiptv" ,TR: beIN Sports MAX 2
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/105
+#EXTINF:-1 group-title="fastiptv" ,TR: BEIN SPORTS 1 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/2998
+#EXTINF:-1 group-title="fastiptv" ,TR: BEIN SPORTS 2 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/2999
+#EXTINF:-1 group-title="fastiptv" ,TR: BEIN SPORTS 3 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3000
+#EXTINF:-1 group-title="fastiptv" ,TR: BEIN SPORTS 4 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3001
+#EXTINF:-1 group-title="fastiptv" ,TR: TIVIBU SPOR-1 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/1644
+#EXTINF:-1 group-title="fastiptv" ,TR: TIVIBU SPOR-2 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/1645
+#EXTINF:-1 group-title="fastiptv" ,TR: TIVIBU SPOR-3 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/1646
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT Belgesel
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/511
+#EXTINF:-1 group-title="fastiptv" ,TR: TRT Avaz
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/512
+#EXTINF:-1 group-title="fastiptv" ,TR: YABAN TV
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3264
+#EXTINF:-1 group-title="fastiptv" ,TR: TV 8
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/2872
+#EXTINF:-1 group-title="fastiptv" ,TR: TV 8.5
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/2873
+#EXTINF:-1 group-title="fastiptv" ,TR:24 Haber HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3174
+#EXTINF:-1 group-title="fastiptv" ,TR:24 Kitchen HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3175
+#EXTINF:-1 group-title="fastiptv" ,TR:FOX Turkiye
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3238
+#EXTINF:-1 group-title="fastiptv" ,TR:bein BOX OFFICE 1 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3192
+#EXTINF:-1 group-title="fastiptv" ,TR:bein BOX OFFICE 2 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3193
+#EXTINF:-1 group-title="fastiptv" ,TR:bein BOX OFFICE 3 HD
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3194
+#EXTINF:-1 group-title="fastiptv" ,TR: beIN Movies Action 1
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3201
+#EXTINF:-1 group-title="fastiptv" ,TR: beIN Movies Action 2
+http://cmskos.fastiptv.org:777/PerMXGBTnGW/PN447zXl6p221Q/3202
